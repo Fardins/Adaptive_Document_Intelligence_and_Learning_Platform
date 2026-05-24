@@ -1,0 +1,11 @@
+pymupdf                 # PDF parsing + font-size analysis
+pdfminer.six            # pure-Python PDF text extraction (fallback to avoid PyMuPDF crashes)
+chromadb               # vector storage (persistent, local)
+sentence-transformers     # HuggingFace embedding (local inference)
+huggingface-hub         # HF token auth for model download
+langchain-text-splitters   # RecursiveCharacterTextSplitter
+python-dotenv          # .env loading
+
+groq                     # Groq client for querying vector database
+streamlit                   # Web app framework for interactive quiz interface
+plotly                     # Interactive visualizations (e.g. collection stats)
