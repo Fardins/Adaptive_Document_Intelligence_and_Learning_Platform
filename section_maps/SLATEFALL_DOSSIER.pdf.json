@@ -1,0 +1,1208 @@
+[
+  {
+    "section_id": "0",
+    "title": "Preamble",
+    "level": 0,
+    "page_start": 1,
+    "page_end": 1,
+    "raw_text": "Document classification: PAMC-INTERNAL / TIER-2 RESTRICTED Compiling authority: Andean\nOperations Bureau, Lima Current revision: 14.2 — dated 11 April 2026 Asset subject: PAMC-A2-014\n(\"SLATEFALL\") Prior revisions: 1.0 (May 2019) through 14.1 (December 2025); see §10 for revision\nhistory.\n1. Identity, Background, and Public Status\n2. Powers, Abilities, and Documented Limits\n3. Origin and Key Historical Events\n4. Equipment, Gear, and Specialized Technology\n5. Operational Tactics and Combat Doctrine\n6. Allies, Networks, and Known Affiliations\n7. Adversaries and Documented Threats\n8. Known Bases, Safehouses, and Operational Territory\n9. Case Files: Documented Engagements and Incidents\n10. Glossary, Codenames, and Reference Tables",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.1",
+    "title": "Registry and Designations",
+    "level": 2,
+    "page_start": 1,
+    "page_end": 1,
+    "raw_text": "The asset designated SLATEFALL is filed under the Pan-American Metahuman Cooperative (PAMC)\nMaster Registry as PAMC-A2-014, registered 19 March 2019. Operational classification: Class A-2\n(Kinetic, Targeted). The codename was assigned by the PAMC Naming Subcommittee on 7 May 2019,\nderived from the asset's powers-emergence event on the eastern slate face of Cerro Castillo, Aysén\nRegion, Chile.\nThree additional designations remain in active rotation:\n\"Calva\" — informal in-cell handle used within Cell Halcón\n\"0-3-Castillo\" (zero-three-Castillo) — radio call sign for cross-cell coordination\n\"La Detención\" — adversary-side designation observed in three intercepted Concession-\nsyndicate communications (2024); unofficial, not used internally\nHer registry threat-to-handler rating is 0.7 / 5, the lowest among PAMC Class A-2 operatives currently\nactive.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.2",
+    "title": "Civilian Identity",
+    "level": 2,
+    "page_start": 1,
+    "page_end": 2,
+    "raw_text": "The asset's civilian identity is Capt. (ret.) Inez Yolanda Calvache-Renström, born 8 September 1987 in\nPunta Arenas, Magallanes Region, Chile. Father: Coronel (ret.) Hernán Calvache-Mardones, Chilean Army\nmilitary geologist (deceased 2017). Mother: Dr. Claire Renström-Verdugo, Franco-Chilean pediatrician\n(retired 2019; resides Viña del Mar).\nSLATEFALL_DOSSIER.md\n2026-05-18\n1 / 50\nThe family relocated to Santiago in late 1999 following her father's posting to the Army's Centro de\nEstudios Geográficos. Calvache-Renström retained dual Chilean–French citizenship from birth; the\nFrench citizenship is currently administratively suspended pending PAMC liaison clearance, last reviewed\nQ3 2025.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.3",
+    "title": "Education",
+    "level": 2,
+    "page_start": 2,
+    "page_end": 2,
+    "raw_text": "Period\nInstitution\nDegree / Standing\n2005–\n2009\nEscuela Militar Bernardo O'Higgins,\nSantiago\nOfficer Cadet, class rank 14 / 162\n2010–\n2012\nCentro de Entrenamiento de Montaña\n(CEM), Río Blanco\nMountain Warfare Instructor Certification,\nGrade A\n2012–\n2014\nUniversidad de Chile (part-time, military\nsecondment)\nMSc Mountain Engineering; thesis: glacier-\nice anchor systems\n2016\nInternational Mountain Federation,\nChamonix\nAdvanced Alpine Rescue Diploma",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.4",
+    "title": "Pre-Powers Military Service",
+    "level": 2,
+    "page_start": 2,
+    "page_end": 2,
+    "raw_text": "Calvache-Renström served in the Chilean Army for 14 years, from commissioning on 12 December 2009\nthrough medical discharge on 28 February 2019. Rank at discharge: Capitán (Captain). Service\ndistribution:\n2009–2012: line officer, Regimiento de Infantería Reforzado No. 23 \"Carampangue\", Coyhaique\n2012–2014: platoon command, Brigada de Operaciones Especiales \"Lautaro\" (mountain-\ndetachment cycle)\n2014–2018: senior instructor, CEM Río Blanco — primary specialty in rope-rescue, ice-traverse, and\nhigh-altitude assault\n2018: trial-deployment with the PAMC observer cell in Antofagasta — last operational posting\nbefore powers emergence\nShe participated in three named cross-border deployments under the OEA-MAR (Organización de los\nEstados Americanos — Misión Andina de Rescate) framework: Operación Vilcabamba (Peru, 2014),\nOperación Trapecio (Bolivia, 2016), Operación Cancha Carrera (Argentina, 2017).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.5",
+    "title": "Physical Description",
+    "level": 2,
+    "page_start": 2,
+    "page_end": 3,
+    "raw_text": "Height: 1.68 m\nWeight: 71 kg (operational); 69 kg standard\nBuild: athletic, body-fat ~14%, pronounced upper-back musculature consistent with sustained\npack-load training\nHair: dark brown, cropped short (≤ 4 cm)\nEyes: hazel-green\nSkin tone: olive\nDistinguishing marks:\n4.2 cm crescent scar over the left brow ridge (residual from Cerro Castillo, 2018)\nSLATEFALL_DOSSIER.md\n2026-05-18\n2 / 50\nPartial nerve damage in the right thumb with surgical scar (Lima, 2020)\nDiscreet tattoo on left ribcage: a small geodesic triangle (regimental keepsake)\nBlood type: A+\nDominant hand: right (post-injury, cross-dominant for trigger use)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.6",
+    "title": "Languages",
+    "level": 2,
+    "page_start": 3,
+    "page_end": 3,
+    "raw_text": "Language\nProficiency\nOperational use\nSpanish (Chilean)\nNative\nAll operational\nFrench\nFluent\nFamily correspondence, Quebec liaison\nEnglish\nFluent\nPAMC official channels\nMapudungun\nWorking\nSouthern Chilean operations\nAymara\nConversational (acquired 2023)\nAltiplano operations\nPortuguese\nComprehension only\nBrazilian liaison, occasional",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.7",
+    "title": "Marital Status and Family",
+    "level": 2,
+    "page_start": 3,
+    "page_end": 3,
+    "raw_text": "Married 4 November 2023 to Dr. Catalina Renström-Verdugo, pediatric oncologist at Clínica Las\nCondes, Santiago. (The spouses share a surname element by coincidence; no consanguineous relation.)\nNo children. Spousal access to the asset's quarters is restricted to two named PAMC-cleared residences\n(Valparaíso and Santiago). Dr. Renström-Verdugo holds PAMC Civilian Liaison Clearance Level 3,\ngranted 12 January 2024.\nThe asset's only surviving sibling is Mauricio Calvache-Renström, 34, civilian, vineyard manager in the\nMaipo Valley; uncleared, contact limited per Cooperative protocol.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.8",
+    "title": "Public Status",
+    "level": 2,
+    "page_start": 3,
+    "page_end": 3,
+    "raw_text": "Unlike most PAMC Class A operatives, SLATEFALL is publicly registered and publicly identified. The\nfollowing PAMC after-action reports have been declassified and released through the Cooperative's Lima\npress office:\nReport ID\nDate released\nIncident\nPAMC-PR-2021-006\n14 July 2021\nAntofagasta containment\nPAMC-PR-2024-002\n22 February 2024\nTarapacá compound raid\nPAMC-PR-2025-011\n9 December 2025\nPotosí intervention\nShe has given two on-record interviews (both Spanish-language, broadcast Canal 13 Chile 2022 and TVN\n2024). Public-facing media presence is otherwise restricted under PAMC Protocol 4-Bravo. She does\nnot maintain personal social media accounts.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "1.9",
+    "title": "Psychological Profile Summary",
+    "level": 2,
+    "page_start": 3,
+    "page_end": 4,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n3 / 50\nMost recent full evaluation: 3 February 2026, conducted by Dr. Maite Borghi-Castelnuovo (PAMC\nBehavioral Health, Lima). Summary findings:\nHigh conscientiousness, low neuroticism\nStress tolerance 92nd percentile relative to PAMC peer cohort\nMild PTSD symptoms managed through structured-cognitive therapy since November 2020 (post-\nAntofagasta)\nNo documented dissociative incidents\nRisk profile: low for unauthorized disclosure; low for unilateral action; moderate for cognitive\nfatigue under prolonged altitude operations\nRecommended supervisory cadence: monthly review, quarterly full evaluation\nShe is cleared for command authority over Cell Halcón and authorized for solo deployments not\nexceeding 14 calendar days.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.1",
+    "title": "Core Mechanic: Inertial Suspension",
+    "level": 2,
+    "page_start": 4,
+    "page_end": 4,
+    "raw_text": "The asset's primary power, designated Inertial Suspension (IS) under PAMC scientific cataloguing,\npermits the targeted nullification of inertia in a single physical object within line-of-sight range. The effect\nwas first observed during the powers-emergence event of 8 October 2018 (see §3.4) and has been\ncontinuously studied by the Cooperative Bureau of Metahuman Physics (CBMP) since March 2019.\nThe operative theory of mechanism — the Calvache–Marrón Equations — was developed jointly by the\nasset and CBMP physicist Dr. Léon Marrón-Saavedra and published in restricted form on 11 May 2022.\nThe equations posit a transient local discontinuity in the conserved-momentum tensor, sustained by\nmetabolic substrate drawn from the asset's central nervous system. The discontinuity is bounded in\nmass, duration, range, and recurrence, all of which have been experimentally calibrated.\nWhen the effect is active, the suspended object:\nhas effective inertial mass equal to approximately 0.4% of its rest mass relative to the local Earth\nframe\nretains its gravitational mass (small objects still fall in earth gravity, but with no resistance to lateral\nforce)\ndoes not interact mechanically with the asset herself (collision exemption)\nresumes its prior linear and angular momentum exactly upon termination (see Tail Momentum,\n§2.6)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.2",
+    "title": "Targeting Procedure",
+    "level": 2,
+    "page_start": 4,
+    "page_end": 5,
+    "raw_text": "Activation requires a focused line-of-sight acquisition of the target, sustained for 1.2 seconds baseline.\nThis focus is mediated by visual attention; auditory or proprioceptive targeting is not possible. The asset\ndescribes the targeting period internally as \"tuning the weight out.\"\nTargeting failure rates by environmental condition:\nSLATEFALL_DOSSIER.md\n2026-05-18\n4 / 50\nCondition\nTargeting failure rate\nDry, clear, daylight\n0.4%\nLight precipitation\n2.1%\nHeavy precipitation / snow whiteout\n7.0%\nFog ≤ 12 m visibility\n11.0%\nSmoke (operational obscurant)\n18.0%\nActive strobing light source\n26.0%\nTotal visual occlusion\n100% (no activation possible)\nTargeting is interrupted irreversibly by acoustic shock ≥ 135 dB delivered within the 1.2 s window; the\nasset must restart acquisition from zero and incurs a 4.2-second neural recovery delay before re-\nattempting.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.3",
+    "title": "Mass Ceiling",
+    "level": 2,
+    "page_start": 5,
+    "page_end": 5,
+    "raw_text": "The controlled mass ceiling under standard operational conditions is 240 kg. This figure was established\nthrough CBMP testing across five quarterly cycles between 2019 and 2022 and has remained stable\nthrough 2026.\nRecorded peak (uncontrolled): 380 kg, observed during the 2018 trigger event when she suspended a\nfragmenting block of slate during her fall. The trigger event remains the sole recorded instance above\n250 kg and is not reproducible under controlled conditions.\nAbove the 240 kg ceiling, attempted activation produces one of three outcomes:\n1. Activation failure with neural feedback (mild migraine onset) — 41% of cases\n2. Partial suspension of a fraction of the target (e.g., one face of a larger object) — 36% of cases\n3. Full activation followed by Echo Lock failure mode (see §2.13) — 23% of cases",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.4",
+    "title": "Duration",
+    "level": 2,
+    "page_start": 5,
+    "page_end": 5,
+    "raw_text": "Baseline maximum sustained duration of a single suspension: 0.6 seconds. This figure is hard-capped\nunder normal physiological conditions and is independent of target mass within the 240 kg ceiling.\nDuration extension is achievable via pharmacological augmentation. Under therapeutic dose of Calexin-7\n(240 mg, twice daily, see §4.9), tested duration extends to 1.1 seconds. The Cooperative does not\nauthorize Calexin-7 doses beyond therapeutic levels; off-label dosing of 360 mg in 2022 yielded 1.4 s\nduration but produced severe vasoconstrictive side-effects and is prohibited under Cooperative Medical\nStanding Order 11.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.5",
+    "title": "Range",
+    "level": 2,
+    "page_start": 5,
+    "page_end": 6,
+    "raw_text": "Effective operational range: 22 meters measured from the asset's nasion to the target's center of mass.\nTheoretical maximum: 41 meters, with substantially degraded reliability; targeting resolution declines\npast 28 meters at a rate of approximately 1.4% failure increase per additional meter.\nSLATEFALL_DOSSIER.md\n2026-05-18\n5 / 50\nRange is not affected by intervening transparent obstacles (glass, ice, polymer film); it is interrupted by\nany opaque obstacle within the visual cone regardless of material thickness. The effect propagates\ninstantaneously at all measured ranges (sub-microsecond resolution).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.6",
+    "title": "Tail Momentum",
+    "level": 2,
+    "page_start": 6,
+    "page_end": 6,
+    "raw_text": "When the suspension ends, the target resumes its prior linear and angular momentum vector exactly —\ndirection, magnitude, and rotation. This property is termed Tail Momentum and underpins the Tail-\nStrike combat technique (see §5.4).\nTail Momentum has been measured to within ±0.03% accuracy in CBMP impulse-recovery trials. The only\ndocumented deviation occurred during the Antofagasta incident (May 2021), when an asymmetric\nthermal gradient applied to a suspended target produced a 2.8% lateral drift; this anomaly has not been\nreplicated under controlled conditions.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.7",
+    "title": "Cooldown Matrix",
+    "level": 2,
+    "page_start": 6,
+    "page_end": 6,
+    "raw_text": "The recurrence-rate limits on Inertial Suspension are governed by three interleaved cooldowns:\nCooldown type\nDuration\nTrigger\nPer-target cooldown\n11.0 s\nSame physical object cannot be re-suspended within\nthis window\nGlobal activation\ncooldown\n2.4 s\nAny two activations on any targets must be\nseparated by at least this interval\nStamina-window cap\nMax 3 activations\nper 60 s\nUnderlies the \"Three-Two-One Rule\" (§5.2)\nViolations of the per-target cooldown produce null activation (no effect, full metabolic cost). Violations\nof the global cooldown produce half-duration suspension (0.3 s baseline) and elevated migraine onset\nrisk.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.8",
+    "title": "Contact Exclusion",
+    "level": 2,
+    "page_start": 6,
+    "page_end": 6,
+    "raw_text": "The asset cannot suspend an object that she is in direct physical contact with at the moment of trigger.\nThe contact exclusion applies to:\nHeld objects (e.g., she cannot suspend a baton she is currently gripping)\nWorn equipment\nSurfaces she is standing on or pressed against\nOther personnel she is touching\nShe can, however, suspend an object that she releases within ~0.3 seconds prior to trigger. The\nstandard tactical drill known as \"Drop-Tune\" exploits this: she releases a throwing baton, lets it travel\nbriefly, then suspends it mid-flight for repositioning (see §5.5).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.9",
+    "title": "Self-Suspension",
+    "level": 2,
+    "page_start": 6,
+    "page_end": 7,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n6 / 50\nThe asset can target her own body for Inertial Suspension, provided the contact-exclusion rule is\nsatisfied (i.e., she is not currently in contact with another large mass at the trigger instant). Mid-air self-\nsuspension is a documented life-saving application — the 2018 trigger event was itself a mid-fall self-\nsuspension that arrested a 47-meter descent for the 0.6-second window required to reorient.\nSelf-suspension during ground contact requires brief in-air transitions and is rarely tactically applicable.\nSelf-suspension while gripping a weapon is forbidden under standing orders due to the contact rule (see\n§5, Directive 7).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.10",
+    "title": "Secondary Ability: Drift Read",
+    "level": 2,
+    "page_start": 7,
+    "page_end": 7,
+    "raw_text": "Drift Read is a passive, involuntary precognitive sense awakened during the Antofagasta incident, 17 May\n2021. It manifests as a tactile pre-perception of incoming projectile vectors within approximately 3\nmeters of the asset's body, perceived as a \"draft\" or directional pressure sense on the skin.\nDrift Read parameters:\nParameter\nValue\nRange\n3.0 m, hard-capped\nLead-time\n~0.30 s before projectile arrival\nApplicable projectiles\nAny solid object travelling ≥ 8 m/s\nInapplicable to\nLiquids, plasma, electromagnetic radiation, sound pressure\nActive during sleep\nYes, degraded by ~60%\nVoluntary disengagement\nNot possible\nDrift Read does not directly enable evasion; it provides directional information that the asset processes\nconsciously and exploits via reflex or by triggering a fast Inertial Suspension on the incoming object.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.11",
+    "title": "Tertiary Ability: Hold",
+    "level": 2,
+    "page_start": 7,
+    "page_end": 7,
+    "raw_text": "Hold is a low-mass, extended-duration variant of Inertial Suspension available for objects up to 2 kg. It\npermits sustained suspension for up to 4.0 seconds at a metabolic cost approximately equal to a single\nfull-duration standard suspension.\nHold is restricted to objects she has already successfully suspended once within the past 90 seconds;\nHold is a \"re-tune\" of an existing inertial signature, not a primary engagement. It cannot be applied to\nliving tissue and cannot be applied to self.\nOperational use: keeping a thrown baton mid-air to choreograph a multi-baton kinetic field (the\nSuspended Field technique, §5.6).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.12",
+    "title": "Prohibited Targets",
+    "level": 2,
+    "page_start": 7,
+    "page_end": 8,
+    "raw_text": "The following are categorically excluded from Inertial Suspension under all known conditions:\nSLATEFALL_DOSSIER.md\n2026-05-18\n7 / 50\nProhibited target\nReason\nLiquids in flow >4 L/s\nTargeting cannot resolve a coherent center of mass\nPlasma\nNo bound inertial signature\nRotating bodies > 1,800 rpm\nAngular-momentum binding fails\nBiological tissue exceeding 12 kg\nCooperative ethical prohibition and inconsistent results\nActive explosive ordnance post-ignition\nEnergy release exceeds binding\nQuantum-correlated metahuman effects\nUnstable interaction; prohibition added Q2 2024\nObjects within 0.4 m of the asset's skin\nContact-exclusion field",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.13",
+    "title": "Echo Lock Failure Mode",
+    "level": 2,
+    "page_start": 8,
+    "page_end": 8,
+    "raw_text": "Echo Lock is a neurological seizure-equivalent observed twice in operational record:\n19 November 2020 (training environment, Lima)\n14 August 2023 (combat environment, Salta)\nSymptoms: a 4-second targeting freeze in which the asset cannot acquire new targets, cannot voluntarily\nrelease a current suspension, and experiences pronounced cervical spasm. Recovery is autonomous; no\npermanent neurological damage has been documented. Triggering conditions include:\nAttempted suspension above the 240 kg ceiling\nAcoustic shock during the targeting window (≥ 145 dB)\nSevere hypoglycemia (blood glucose < 58 mg/dL) during sustained operation\nEcho Lock occurrence remains rare (2 events / approximately 3,200 logged activations through 31\nDecember 2025).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.14",
+    "title": "Metabolic Cost",
+    "level": 2,
+    "page_start": 8,
+    "page_end": 8,
+    "raw_text": "Operational metabolic demand at peak operational rate (3 activations/min sustained):\nCaloric burn: ~2,100 kcal per operational hour\nSodium loss: 1.4 g/hr\nGlycogen depletion: complete within 38 minutes\nRequired carbohydrate intake during sustained operation: 80 g/hr complex, plus emergency 25 g\nfast-acting\nCore-temperature elevation: +0.6 °C per operational hour at peak rate\nField nutrition protocol mandates hypertonic glucose gel every 30 minutes during active engagement and\na standardized electrolyte solution (PAMC-issued formulation Bofedal-3, 740 mL/hr) between\nactivations.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.15",
+    "title": "Neurological Tax",
+    "level": 2,
+    "page_start": 8,
+    "page_end": 9,
+    "raw_text": "Chronic neurological consequences observed:\nSLATEFALL_DOSSIER.md\n2026-05-18\n8 / 50\nCervical migraines, frequency 3–5 per week without prophylaxis\nPharmacological management: Calexin-7 240 mg twice daily (see §4.9)\nSleep latency increase of ~14 minutes baseline\nREM-cycle disruption on operational nights (~22% reduction)\nCumulative biological aging correlate: telomere shortening +2.4 years per operational year\n(most recent measurement Q4 2025)\nNo documented cognitive decline; cognitive performance assessment Q4 2025 within prior\nbaseline",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.16",
+    "title": "Documented Vulnerabilities",
+    "level": 2,
+    "page_start": 9,
+    "page_end": 9,
+    "raw_text": "In addition to the Echo Lock trigger conditions, the following operational vulnerabilities are formally\ndocumented:\nAcoustic shock ≥ 135 dB during targeting interrupts acquisition (§2.2)\nSustained sensory deprivation (visual occlusion > 40 minutes) elicits transient power\nsuppression\nHypothermia core < 34.6 °C disables Inertial Suspension entirely\nHyperventilation (rapid > 34 breaths/min for > 90 s) degrades targeting by 18%\nEM-pulse exposure above 0.4 T does not directly disable the power but causes secondary nerve\ndysfunction\nConcurrent metahuman countermeasures documented twice (see §7.3 — Tropopausa; §7.10 —\nMar Inverso)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.17",
+    "title": "Power Performance Statistics (2019–2025)",
+    "level": 2,
+    "page_start": 9,
+    "page_end": 9,
+    "raw_text": "Cumulative operational data drawn from PAMC field logs and CBMP debrief telemetry:\nMetric\nValue\nTotal logged activations\n3,217\nSuccessful activations\n3,074 (95.6%)\nTargeting failures\n102 (3.2%)\nMid-activation aborts\n41 (1.3%)\nAverage target mass per activation\n38.2 kg\nMedian activation duration utilized\n0.42 s\nMid-air self-suspensions logged\n47\nTail-Strike applications logged\n312\nSuspended Field deployments\n89\nEcho Lock incidents\n2\nOperational hours under power\n1,148",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.18",
+    "title": "Comparative Classification",
+    "level": 2,
+    "page_start": 9,
+    "page_end": 10,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n9 / 50\nWithin the PAMC roster, SLATEFALL occupies a narrow operational niche. Of 217 currently registered\nCooperative operatives:\n38 are Class A (Kinetic), of whom 12 are Class A-2 (Targeted)\nOnly 4 Class A-2 operatives possess an inertial- or momentum-related primary power\nSLATEFALL is the only documented case of true inertial nullification (the others act on energy\ntransfer rather than mass)\nComparable adversary capability is suspected in only one open file: Mar Inverso (§7.10), projected\nTier 5",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.19",
+    "title": "Research and Re-Evaluation Schedule",
+    "level": 2,
+    "page_start": 10,
+    "page_end": 10,
+    "raw_text": "Annual re-evaluation of power parameters is mandated under PAMC Scientific Standing Order 4. The next\nscheduled CBMP full assessment is 11–14 June 2026 in Lima. Interim quarterly checks are performed by\nDr. Solène Bauer-Cortez at Cuartel Valparaíso.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.20",
+    "title": "Documented Anomalies and Unresolved Mechanics",
+    "level": 2,
+    "page_start": 10,
+    "page_end": 10,
+    "raw_text": "Four anomalies remain formally classified as Unresolved Mechanics by CBMP and are flagged for future\nresearch cycles:\n1. The Antofagasta Drift (May 2021): the singular 2.8% lateral deviation in Tail Momentum recorded\nduring the Drift Read awakening event. Hypothesis: asymmetric thermal gradient from a nearby\nrefinery flare. Replication attempts in CBMP labs (4 attempts, 2021–2024) all failed to reproduce\nthe effect.\n2. The \"Twin-Lock\" hypothesis: during the 14 August 2023 Salta engagement, telemetry recorded a\n0.21-second period in which two simultaneously suspended objects exhibited interlocked\ntermination — both released within 14 milliseconds of each other despite separate activation\ntimestamps. No mechanism has been proposed.\n3. The 2024 Coquimbo dampening: during the 4th Tropopausa engagement (Coquimbo, May\n2024), the asset's targeting failure rate dropped to 0.0% across 7 activations — well below the\n0.4% baseline. Hypothesis: synergistic interaction with Tropopausa's pressure field. Unverified.\n4. REM-cycle bleed: during REM sleep, the asset's Reset Bracers occasionally register low-\namplitude targeting-precursor signals despite no conscious activation. Frequency: ~3 per night. No\nexternal effects have been observed; the phenomenon may be a subconscious artifact rather than\na true power expression.\nThese anomalies are reviewed each annual cycle and are not currently considered operational risks.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.21",
+    "title": "Comparative Counter-Threat Profile",
+    "level": 2,
+    "page_start": 10,
+    "page_end": 11,
+    "raw_text": "Should the asset face an inertial-manipulation adversary (e.g., the projected Mar Inverso, §7.10), CBMP\nhas modeled the engagement profile under three scenarios:\nScenario\nAdversary capability\nProjected outcome\nMass multiplication (inverse\nsymmetry)\n×50 inertial increase, 240 kg\nceiling, 0.6 s duration\nTactical stalemate; mutual\ncooldown exhaustion likely\nSLATEFALL_DOSSIER.md\n2026-05-18\n10 / 50\nScenario\nAdversary capability\nProjected outcome\nMass imprint (locking\nmomentum onto target)\nInert object pinned in place\nSLATEFALL operationally\nsuppressed if pinned\nMass transfer (redistributing\ninertia between objects)\nCoupled-object momentum\nmanipulation\nUnknown; high risk of cascade\nfailure\nThe third scenario is the most concerning and is the rationale behind the Director-General-only\nauthorization requirement for Mar Inverso engagement.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "2.22",
+    "title": "Power-Onset Pre-Activation Signatures",
+    "level": 2,
+    "page_start": 11,
+    "page_end": 11,
+    "raw_text": "CBMP has documented three measurable pre-activation physiological signatures detectable\napproximately 0.4 seconds before the asset initiates targeting:\nPupillary dilation increase of 11–14% (target-side pupil only)\nSkin conductance spike of 2.6 µS on left thenar eminence\nSpinal-cord vibrational micro-signature, 78 Hz, recorded via Reset Bracer accelerometers\nThese signatures are not detectable by external observers without specialized instrumentation, but the\nCooperative classifies them as Operational Tell-Tale Indicators (OTTI) and rotates the asset's pre-\nengagement breathing protocol quarterly to mitigate predictive exploitation by adversaries.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.1",
+    "title": "Early Life (1987–2005)",
+    "level": 2,
+    "page_start": 11,
+    "page_end": 11,
+    "raw_text": "Inez Yolanda Calvache-Renström was born on 8 September 1987 at the Hospital Naval de Punta\nArenas, in conditions noted as \"uneventful\" on her birth record. Her early childhood, until age 12, was\nspent in the Magallanes Region, where her father served as a regional army geologist and her mother\noperated a small pediatric practice. The family resided at Calle Errázuriz 1422, Punta Arenas — a\nresidence later sold in 2001.\nIn late 1999, following her father's reassignment to the Centro de Estudios Geográficos in Santiago, the\nfamily relocated to the capital. Calvache-Renström completed secondary education at the Liceo Manuel\nde Salas between 2001 and 2004, graduating with academic honors in geography, mathematics, and\nphysical education. She represented the school in two consecutive national alpine-skiing championships\n(2003 and 2004), placing 7th and 4th respectively in the U18 women's giant slalom.\nA 2003 field trip to Glaciar Exploradores in the Aysén Region is recorded in subsequent\nautobiographical interviews as a formative experience.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.2",
+    "title": "Military Cadet and Junior Officer Years (2005–2014)",
+    "level": 2,
+    "page_start": 11,
+    "page_end": 12,
+    "raw_text": "She entered the Escuela Militar Bernardo O'Higgins on 4 March 2005. Cadet rank progression and\nnotable cycle assignments are summarized in §1.3 and §1.4. She graduated 12 December 2009 with class\nrank 14 of 162, receiving the Espada de Honor de Geografía Militar for top scores in topographic\nsurveying.\nSLATEFALL_DOSSIER.md\n2026-05-18\n11 / 50\nJunior officer service distribution (2009–2014):\nPeriod\nPosting\nRank\nJan 2010 – Apr 2012\nRegimiento \"Carampangue,\" Coyhaique\nSubteniente\nMay 2012 – Jul 2012\nCEM, Río Blanco (instructor pipeline)\nSubteniente\nAug 2012 – Sep 2013\nBrigada \"Lautaro,\" mountain detachment\nTeniente\nOct 2013 – Dec 2014\nBrigada \"Lautaro,\" senior platoon role\nTeniente\nOn 19 March 2014 she was selected for instructor secondment at CEM Río Blanco, a posting traditionally\nindicating fast-track promotion intent.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.3",
+    "title": "Senior Instructor Period (2014–2018)",
+    "level": 2,
+    "page_start": 12,
+    "page_end": 12,
+    "raw_text": "From 2014 through mid-2018, Calvache-Renström served as a senior instructor at the Centro de\nEntrenamiento de Montaña, attaining the rank of Capitán on 1 March 2017. During this period she led 11\ninstructor cycles, certified 142 mountain warfare graduates, and authored two internal Army doctrine\nannexes:\nAnnex M-14: Rope-Rescue Procedures Above 4,500 m\nAnnex M-16: Ice-Anchor Selection in Mixed-Substrate Faces\nShe received the Cruz al Mérito Militar (Tercera Clase) on 7 September 2017 for the successful\nextraction of a stranded civilian climbing party from Volcán Tupungato during inclement weather.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.4",
+    "title": "The Cerro Castillo Incident (8 October 2018)",
+    "level": 2,
+    "page_start": 12,
+    "page_end": 13,
+    "raw_text": "The asset's powers-emergence event occurred on 8 October 2018 at approximately 14:42 local time on\nthe eastern face of Cerro Castillo (47°15′S, 72°06′W), elevation ~2,318 m at incident point. She was\nconducting a solo reconnaissance ascent in preparation for a CEM instructor cycle, climbing a Grade IV-5\nmixed slate-and-ice route.\nSequence of events as reconstructed from her helmet recorder, recovered ice tools, and post-incident\ngeological survey:\n1. 14:40:11 — Anchor screw #4 was placed at 2,318 m elevation.\n2. 14:41:37 — Rope-end ice tool placement failed in unconsolidated slate.\n3. 14:41:52 — A 1.2 m × 0.8 m slate block detached from the face, striking her left brow ridge.\n4. 14:41:54 — Anchor screw #4 sheared; she entered free-fall.\n5. 14:41:58 — During the fall, she experienced an involuntary first activation of Inertial Suspension,\narresting the descent of a fragmented 380 kg slate mass adjacent to her body for an estimated 0.6\ns, allowing reorientation.\n6. 14:42:00 — Self-suspension event arrested her own 47-meter fall for the same 0.6-second\nwindow; she resumed motion at reduced trajectory and impacted a snowfield rather than rock.\n7. 14:42:14 — Loss of consciousness, traumatic.\nShe was located by a CEM rescue patrol 4 hours 21 minutes later, evacuated by helicopter to Hospital\nRegional de Coyhaique, and transferred 11 October 2018 to Hospital Militar Santiago. Injuries: closed-\nSLATEFALL_DOSSIER.md\n2026-05-18\n12 / 50\nhead trauma, right thumb fracture with nerve damage, mild hypothermia, multiple contusions. No\nfatalities; no other personnel were on the mountain at the time.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.5",
+    "title": "Recovery and Powers Confirmation (October 2018 – February 2019)",
+    "level": 2,
+    "page_start": 13,
+    "page_end": 13,
+    "raw_text": "During her hospitalization, anomalous events were observed by attending nursing staff between 24\nOctober and 11 November 2018: small objects in the immediate vicinity of her bed exhibited transient\n\"weightless\" motion correlating with REM cycles. On 14 November, a controlled observation confirmed\nreproducible inertial suspension of a 200-gram steel object at her request.\nShe was transferred to the Lima Metahuman Assessment Facility (LMAF) on 28 January 2019. PAMC\ninitial assessment classified her capability as a novel Class A-2 phenomenon. Medical discharge from the\nChilean Army was finalized 28 February 2019.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.6",
+    "title": "PAMC Recruitment and Probationary Period (March 2019 – November 2020)",
+    "level": 2,
+    "page_start": 13,
+    "page_end": 13,
+    "raw_text": "She signed the Cooperative Service Agreement on 12 March 2019. Codename SLATEFALL assigned 7\nMay 2019. Probationary deployment cycle:\n19 March 2019 – 22 August 2019: residential training, Lima HQ\n23 August 2019 – 14 January 2020: paired-cell rotations under senior operative MIRADOR (Cpt.\n(ret.) Estefania Pizarroso-Aldama)\n15 January 2020 – 19 November 2020: independent probationary deployments, Atacama Sector\nThe 19 November 2020 training incident at Lima HQ produced the first Echo Lock event (see §2.13).\nInvestigation concluded the cause was an unauthorized peer-test attempt to suspend a 320 kg test sled.\nSubsequent training discipline tightened; the mass ceiling protocol was formalized.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.7",
+    "title": "The Antofagasta Incident and Drift Read Awakening (17 May 2021)",
+    "level": 2,
+    "page_start": 13,
+    "page_end": 13,
+    "raw_text": "On 17 May 2021 during a containment operation in the port district of Antofagasta (PAMC Case 2020-\n0048, see §9.2), the asset suffered a small-arms ambush from elevated cover. During the engagement,\nshe experienced an involuntary precognitive perception of incoming projectile vectors — the first\nmanifestation of what would be designated Drift Read (§2.10). The ability has remained continuously\nactive since.\nThe Antofagasta operation produced a Successful classification but resulted in a 14-day medical leave for\nthe asset and the documented onset of post-traumatic symptoms (§1.9).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.8",
+    "title": "Tropopausa First Engagement and the Mendoza Pyrrhic (June 2022)",
+    "level": 2,
+    "page_start": 13,
+    "page_end": 13,
+    "raw_text": "On 3–5 June 2022, the asset engaged the metahuman adversary Tropopausa / Eliseo Mardones for\nthe first time, in the Mendoza Free Trade Zone (Case 2022-0123, §9.4). The engagement is classified\nPyrrhic: Tropopausa was contained, but PAMC suffered 3 civilian and 1 operative casualty (Cpl. Adolfo\nYáñez-Ríos, civilian medic, Cell Cóndor).\nThe Mendoza engagement produced revisions to PAMC engagement protocols against atmospheric-\npressure manipulators and prompted the formal articulation of the Doctrine of Sequential Suspension\n(§5.1) on 19 June 2022.\nSLATEFALL_DOSSIER.md\n2026-05-18\n13 / 50",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.9",
+    "title": "Cell Halcón Formation and Marriage (2022–2023)",
+    "level": 2,
+    "page_start": 14,
+    "page_end": 14,
+    "raw_text": "Following Mendoza, the asset was promoted to Field Officer, Grade 2 on 1 August 2022, with command\nauthority over a newly-formed 4-operative cell designated Cell Halcón. Cell composition was finalized 11\nOctober 2022 (see §6.2).\nShe married Dr. Catalina Renström-Verdugo on 4 November 2023 in a private civil ceremony in Viña del\nMar. Cooperative liaison clearance for the spouse was processed in January 2024.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.10",
+    "title": "Salta Echo Lock and Quebrantadero (August 2023)",
+    "level": 2,
+    "page_start": 14,
+    "page_end": 14,
+    "raw_text": "On 14 August 2023, during Case 2024-0202 in Salta Province, Argentina (see §9.7), the asset\nexperienced her second documented Echo Lock event while attempting suspension of a 280 kg vehicular\ncomponent. The Salta engagement against Quebrantadero / Wilma Sandoval-Iqui produced significant\ncivilian casualties (11 confirmed) and is classified Catastrophic. A formal Cooperative inquiry concluded\nin March 2024 with no censure of the asset but with three recommended protocol changes, all\nsubsequently adopted.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.11",
+    "title": "Lead Officer Status and 2024–2025 Operations",
+    "level": 2,
+    "page_start": 14,
+    "page_end": 14,
+    "raw_text": "On 9 February 2024, the asset was promoted to Lead Officer (Field, Grade 3) with expanded\ncommand authority. During 2024 and 2025 she led 23 logged operations, including:\nTarapacá Concession compound raid (Case 2024-0034)\nTallinn-Asunción intelligence rotation (joint with European liaison)\nLima Audiencia counter-audit (Case 2025-0019)\nPotosí Cabrestante neutralization (Case 2025-0156)\nCumulative operational hours under power during 2024–2025: approximately 612.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.12",
+    "title": "Current Deployment (2026)",
+    "level": 2,
+    "page_start": 14,
+    "page_end": 14,
+    "raw_text": "As of revision date (11 April 2026), the asset is engaged in Case 2026-0008, classification restricted,\nwith operational territory spanning the Bolivian altiplano and northern Chilean copper belt. The case is\nopen and ongoing; specifics are withheld from this revision per PAMC Compartmentalization Order 3-\nCharlie.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "3.13",
+    "title": "Master Timeline Reference",
+    "level": 2,
+    "page_start": 14,
+    "page_end": 15,
+    "raw_text": "Date\nEvent\n8 Sept 1987\nBorn, Punta Arenas\n12 Dec 2009\nCommissioned, Chilean Army\n1 Mar 2017\nPromoted to Capitán\n8 Oct 2018\nCerro Castillo trigger event\n28 Feb 2019\nMedical discharge from Chilean Army\n12 Mar 2019\nPAMC service agreement signed\nSLATEFALL_DOSSIER.md\n2026-05-18\n14 / 50\nDate\nEvent\n7 May 2019\nCodename SLATEFALL assigned\n19 Nov 2020\nFirst Echo Lock event (training)\n17 May 2021\nDrift Read awakens, Antofagasta\n11 May 2022\nCalvache–Marrón Equations published (restricted)\n3–5 Jun 2022\nTropopausa first engagement, Mendoza\n19 Jun 2022\nDoctrine of Sequential Suspension articulated\n1 Aug 2022\nPromoted to Field Officer, Grade 2\n11 Oct 2022\nCell Halcón finalized\n14 Aug 2023\nSecond Echo Lock, Salta\n4 Nov 2023\nMarriage to Dr. Renström-Verdugo\n9 Feb 2024\nPromoted to Lead Officer (Field, Grade 3)\n11 Apr 2026\nCurrent dossier revision date",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.1",
+    "title": "Overview: PAMC Class A-2 Standard Field Kit",
+    "level": 2,
+    "page_start": 15,
+    "page_end": 15,
+    "raw_text": "All PAMC Class A-2 operatives draw from a standardized issue under Cooperative Logistics Standing\nOrder 7, customized per operative profile. SLATEFALL's customized loadout — designated Loadout\nProfile HALC-014 — is calibrated for high-altitude, kinetic-targeted engagements and weighs 18.4 kg at\nfull operational configuration, excluding consumables.\nLoadout profiles are recertified annually by the PAMC Logistics Division (Valparaíso) and the\noperative's commanding handler (currently Director Salvatierra, see §6.4). The most recent certification\nof HALC-014 occurred on 22 March 2026.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.2",
+    "title": "Field Uniform: Andina-7 Hardshell",
+    "level": 2,
+    "page_start": 15,
+    "page_end": 16,
+    "raw_text": "Primary uniform layer is the Andina-7 hardshell, manufactured by Tejidos Cordillera S.A. (Talca, Chile)\nunder PAMC contract. Specifications:\nParameter\nValue\nTotal weight\n3.8 kg (size M)\nOuter shell\nTri-laminate aramid-nylon, 240 g/m²\nInsulating layer\nDetachable, 110 g/m²\nOperating temperature\n−40 °C to +45 °C\nPockets\n14 (including 2 hidden)\nSLATEFALL_DOSSIER.md\n2026-05-18\n15 / 50\nParameter\nValue\nColor profile\nPAMC Andean Pattern M-2 (mixed grey/ochre, IR-\nsuppressive)\nService life\n380 operational days\nReplacement cost (PAMC\nprocurement)\nUSD $4,200\nThe Andina-7 incorporates an integrated biometric strain panel at the cervical spine that interfaces with\nthe Reset Bracers (§4.6) to provide real-time fatigue telemetry. The shell is rated to IIIA ballistic standard\nat chest and back panels; the integrated hood is rated to IIA.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.3",
+    "title": "Footwear: Cordillera Mk-IV",
+    "level": 2,
+    "page_start": 16,
+    "page_end": 16,
+    "raw_text": "The Cordillera Mk-IV combat-mountain boot is the standard PAMC issue for Andean operations:\nParameter\nValue\nWeight per boot\n980 g (size 38)\nManufacturer\nCalzados Pirque, Santiago\nSole\nVibram-compound, 5.2 mm lug depth\nCrampon compatibility\nUniversal (semi-automatic and step-in)\nInsulation\n200 g Thinsulate equivalent\nSole MTBF\n320 km\nLacing\nSpeed-lock with redundant secondary tie\nThe Mk-IV variant introduced in 2023 includes a discreet sole-cavity micro-cache (volume 14 mL) used\nfor emergency stimulant tablets.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.4",
+    "title": "Primary Kinetic Implement: Tungsten-Core Throwing Batons",
+    "level": 2,
+    "page_start": 16,
+    "page_end": 17,
+    "raw_text": "The asset's signature kinetic implement is a set of six tungsten-core throwing batons, machined by\nTalleres Magallanes to PAMC specification TC-340/B:\nParameter\nValue\nNumber carried (standard)\n6\nMass per baton\n340 g\nLength\n22.0 cm\nDiameter\n18 mm\nCore\nTungsten-alloy, 96% W\nOuter shell\nCold-blued steel, knurled grip\nSLATEFALL_DOSSIER.md\n2026-05-18\n16 / 50\nParameter\nValue\nBalance point\nGeometric center ± 0.4 mm\nEngraved identifier\n\"HALC-014 / B-1\" through \"B-6\"\nReplacement cost per unit\nUSD $940\nThe batons are designed for use in conjunction with Inertial Suspension. The standard tactical sequence\n— throw, mid-flight suspension, repositioning, release — is the basis of the Drop-Tune (§5.5) and Tail-\nStrike (§5.4) techniques. The asset reports a personal throwing accuracy of 88% within 12 m and 64%\nwithin 22 m without suspension assistance.\nLoss record: of an original 24 batons issued since 2019, 18 remain in active service; 4 were lost in\noperations (Antofagasta ×1, Mendoza ×2, Tarapacá ×1) and 2 were retired due to material fatigue.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.5",
+    "title": "Sidearm: Bersa-Nogales TX-9",
+    "level": 2,
+    "page_start": 17,
+    "page_end": 17,
+    "raw_text": "Issued sidearm is the Bersa-Nogales TX-9 compact pistol, a PAMC-spec firearm produced in Argentina\nunder joint Bersa–Nogales licensing. Specifications:\nParameter\nValue\nCaliber\n9×19 mm\nMagazine capacity\n13 rounds\nWeight, loaded\n720 g\nWeight, unloaded\n580 g\nLength\n175 mm\nBarrel length\n91 mm\nTrigger pull\n2.4 kg, single-action after first round\nEffective range\n50 m\nThe asset's TX-9 (serial NGS-2229-AC) is the secondary engagement weapon; she fires it on average 14\nrounds per operational year and prefers kinetic-baton engagement when range permits.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.6",
+    "title": "Reset Bracers",
+    "level": 2,
+    "page_start": 17,
+    "page_end": 18,
+    "raw_text": "The Reset Bracers are paired wrist-mounted neural-telemetry units providing real-time targeting-fatigue\ndata via a proprietary galvanic-skin / heart-rate variability algorithm. Engineered jointly by CBMP and\nLt. Solène Bauer-Cortez:\nParameter\nValue\nWeight per bracer\n180 g\nBattery life\n14.0 hours active\nTelemetry channels\n7\nSLATEFALL_DOSSIER.md\n2026-05-18\n17 / 50\nParameter\nValue\nData-link\n2.4 GHz encrypted (paired only to Cell Halcón comms)\nCharging\nInductive cradle, 90 minutes to full\nAlert thresholds\nThree-tier (caution / hold / abort)\nThe bracers issue a haptic pulse at three documented fatigue thresholds. Empirically, the abort\nthreshold corresponds to a 73% probability of next-activation failure and is overridden by the asset only\nunder formal commander's authorization. Override events: 4 logged (3 successful, 1 producing the\nAugust 2023 Echo Lock).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.7",
+    "title": "Anchor Sling",
+    "level": 2,
+    "page_start": 18,
+    "page_end": 18,
+    "raw_text": "The Anchor Sling is a nylon-aramid harness used to redirect suspended objects in close quarters. Worn\nacross the torso, the sling provides clip-points for batons and is constructed of 440 g of woven mil-spec\nmaterial rated to a static load of 1,200 kg. Standard configuration includes 6 baton clips, 2 ferro-rod\nignition sleeves, and a single-point release.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.8",
+    "title": "Encrypted Comms: Yatiri-3 Burst-Radio",
+    "level": 2,
+    "page_start": 18,
+    "page_end": 18,
+    "raw_text": "The Yatiri-3 burst-radio handset is the standard PAMC Andean-cell comms unit:\nParameter\nValue\nWeight\n460 g\nBurst-transmission cycle\n4.2 seconds\nRange, line-of-sight\n18 km\nRange, via relay node\nup to 240 km\nEncryption\nAES-256, Cooperative-issued keys, rotation every 96 hours\nBattery\nLithium-polymer, 22-hour standby, 6-hour active\nA backup Yatiri-2 handset is cached at each operational safehouse.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.9",
+    "title": "Medical Kit",
+    "level": 2,
+    "page_start": 18,
+    "page_end": 19,
+    "raw_text": "Standard medical loadout, kept in a dedicated thigh-pouch:\nItem\nQuantity\nNotes\nCalexin-7 (240 mg blister)\n14 doses\nMigraine prophylaxis; see §2.15\nHypertonic glucose gel\n4 sachets\n25 g fast-acting carbs each\nBofedal-3 electrolyte solution\n2 × 740 mL\nPAMC standard, see §2.14\nSingle-dose epinephrine pen\n2\nStandard 0.3 mg\nHyperbaric mask\n1\nCompact, for altitude emergencies\nSLATEFALL_DOSSIER.md\n2026-05-18\n18 / 50\nItem\nQuantity\nNotes\nStimulant blister (Cardex-2 analog)\n6 doses\nRestricted use, commander-authorization only\nHemostatic gauze\n4 packs\nCombat trauma standard\nTourniquet (CAT-7 variant)\n2\nOne arm-rated, one leg-rated\nThe medical kit is inspected by Cpl. Vendrame before every deployment and after every operational\nreturn.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.10",
+    "title": "Climbing Kit",
+    "level": 2,
+    "page_start": 19,
+    "page_end": 19,
+    "raw_text": "A reduced-volume mountaineering kit is integrated into the loadout for the asset's primary operational\nenvironment:\nItem\nSpecification\nIce tools (×2)\nPetzlec HK-2, technical climbing rated\nCrampons\nPetzlec Lynx-A, semi-automatic\nHarness\nCamp Rapid-X, 280 g\nStatic rope\n60 m × 8.6 mm\nIce screws\n6 (lengths 13, 16, 19, 22 cm)\nCarabiners\n14 (8 locking, 6 non-locking)\nBelay device\nCamp Druid Pro\nHeadlamp\nFaro-7, 720 lumens, 11-hour battery\nSnow stakes\n2 × T-section aluminum",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.11",
+    "title": "Vehicle: Quiltro V-12",
+    "level": 2,
+    "page_start": 19,
+    "page_end": 20,
+    "raw_text": "Primary vehicle is an armored Quiltro V-12 light utility, manufactured by Industrias Ñuble in Concepción\nunder PAMC contract:\nParameter\nValue\nMass\n4,400 kg (4.4 t)\nDrivetrain\n4WD, dual-clutch automatic\nRange\n620 km (auxiliary tank engaged)\nTop speed\n162 km/h (governed)\nArmor rating\nNIJ Level III all-around, Level IV at A-pillars\nTires\nRun-flat to 80 km at 50 km/h\nCrew\n4 + cargo\nSLATEFALL_DOSSIER.md\n2026-05-18\n19 / 50\nParameter\nValue\nVehicle ID\nQV12-PAMC-019\nThe Quiltro is fitted with a concealed roof-rack mount for baton-cache deployment, an EM-shielded\ncomms cabinet, and a 14-liter cold-storage compartment for Calexin-7 reserves.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.12",
+    "title": "Failsafe Equipment",
+    "level": 2,
+    "page_start": 20,
+    "page_end": 20,
+    "raw_text": "Three classes of failsafe are standard:\n1. Dead-man's pulse beacon — body-worn, transmits operative-alive signal every 240 seconds;\nabsence of signal for ≥ 18 minutes triggers a Cell Halcón recovery protocol.\n2. Biometric pistol lock — TX-9 trigger interlock keyed to the asset's palm geometry and pulse\nsignature; lockout time 0.18 s.\n3. Concealed kill switches — three hardware kill switches integrated into the Reset Bracers, Yatiri-3\nhandset, and Quiltro V-12 ignition, disabling each unit in the event of capture.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.13",
+    "title": "Loadout Variants",
+    "level": 2,
+    "page_start": 20,
+    "page_end": 20,
+    "raw_text": "Three formal loadout variants are maintained:\nVariant\nDesignation\nUse\nMass\nStandard\nHALC-014-S\nGeneral Andean\noperations\n18.4 kg\nUrban\nHALC-014-U\nCities, low-altitude\n14.1 kg (no climbing kit, reduced batons\n×4)\nHigh-\naltitude\nHALC-014-H\nAbove 4,800 m\n21.6 kg (added oxygen, doubled gloves)\nMaritime\nHALC-014-\nM\nCoastal / port operations\n16.7 kg (waterproof additions, no\ncrampons)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.14",
+    "title": "Specialized Acquisitions and One-Off Equipment",
+    "level": 2,
+    "page_start": 20,
+    "page_end": 20,
+    "raw_text": "Item\nDescription\nAnchor Stone\n\"Cerro-1\"\nPolished slate fragment recovered from the 2018 trigger site; carried as\npersonal talisman in left chest pocket. Mass 32 g. No documented operational\nfunction.\nMnemonic\nRecorder Lente-9\nCBMP-issued helmet camera with 8-hour buffer, used for post-action\ntelemetry; deployed selectively.\nEM-Suppression\nCloak\nAluminized mylar-aramid weave; 1.2 kg; rated to attenuate 100 MHz–6 GHz\nemissions by 24–28 dB. Used 11 times since 2022.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.15",
+    "title": "Equipment Summary Matrix",
+    "level": 2,
+    "page_start": 20,
+    "page_end": 21,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n20 / 50\nItem\nManufacturer\nWeight\nReplacement (USD)\nAndina-7 hardshell\nTejidos Cordillera\n3.8 kg\n$4,200\nCordillera Mk-IV boots (pair)\nCalzados Pirque\n1.96 kg\n$620\nTungsten throwing batons (×6)\nTalleres Magallanes\n2.04 kg\n$5,640\nBersa-Nogales TX-9\nBersa-Nogales\n0.72 kg\n$980\nReset Bracers (pair)\nCBMP / Bauer-Cortez\n0.36 kg\n$11,200\nAnchor Sling\nTejidos Cordillera\n0.44 kg\n$310\nYatiri-3 burst-radio\nPAMC Signals\n0.46 kg\n$2,800\nMedical kit (full)\nPAMC Medical\n1.8 kg\n$440\nClimbing kit (full)\nMixed\n4.6 kg\n$3,100\nQuiltro V-12 vehicle\nIndustrias Ñuble\n4,400 kg\n$214,000\nEM-Suppression Cloak\nCBMP\n1.2 kg\n$7,400",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.16",
+    "title": "Historical and Retired Equipment",
+    "level": 2,
+    "page_start": 21,
+    "page_end": 21,
+    "raw_text": "Equipment formally retired from the asset's loadout but retained in the Cuartel Valparaíso Equipment\nArchive (CVEA) for reference, training, and contingency reissue:\nItem\nPeriod in\nservice\nReason for retirement\nAndina-4 hardshell (predecessor\nuniform)\n2019–2021\nReplaced after Antofagasta thermal\ndamage\nBersa-Vargas TS-7 sidearm\n2019–2022\nTrigger-pull fatigue; replaced with\nTX-9\nThrowing batons \"M-Series\" (steel-\nonly, 280 g)\n2019–2020\nInsufficient kinetic mass for Tail-\nStrike\nYatiri-1 burst-radio\n2019–2023\nEncryption deprecated; AES-128\nsunset\nReset Bracer prototype A\n2020–2021\nSingle-channel telemetry only\nQuiltro V-9 vehicle\n2019–2022\nDamaged beyond repair, Mendoza\n2022\nAluminized poncho (non-cloak variant)\n2019–2022\nInferior EM-attenuation to current\nCloak\nThe CVEA archive is consulted approximately twice per year by CBMP for comparative-evolution studies\nand once per training cycle by Lima Academy.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.17",
+    "title": "Quartermaster and Custody Chain",
+    "level": 2,
+    "page_start": 21,
+    "page_end": 22,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n21 / 50\nAll operational equipment is signed in and out through the Valparaíso Quartermaster's Log (VQL),\ncurrently maintained by Sub-Comisario Eladia Munizaga-Lépez (PAMC civilian, tenure since 2019).\nVQL audits occur monthly. Lost-equipment incidents through 2025: 23 total, of which 18 were recovered,\n4 were declared total loss, and 1 (Baton B-3, Mendoza 2022) is unaccounted for and assumed in\nadversary possession.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "4.18",
+    "title": "Specialized Munitions Authorization",
+    "level": 2,
+    "page_start": 22,
+    "page_end": 22,
+    "raw_text": "The asset is authorized to draw the following non-standard munitions from the Valparaíso armory upon\ncommander's signature:\n9×19 mm subsonic frangible (Concession-grade): 60-round box\n9×19 mm armor-piercing (PAMC restricted): 30-round box, two-officer release\nSmoke grenades: M-18 equivalent, up to 4 per deployment\nFlash-bang devices: M-84 equivalent, up to 2 per deployment (note: must be deployed behind the\nasset to avoid acoustic disruption)\nMunitions usage in 2024–2025: 14 subsonic rounds, 0 AP rounds, 6 smoke grenades, 1 flash-bang.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.1",
+    "title": "The Doctrine of Sequential Suspension",
+    "level": 2,
+    "page_start": 22,
+    "page_end": 22,
+    "raw_text": "The asset's formal combat doctrine, the Doctrine of Sequential Suspension (DSS), was articulated by\nthe asset on 19 June 2022 in the aftermath of the Mendoza Pyrrhic engagement (§3.8). It is now PAMC-\nrecognized doctrine for Class A-2 (Targeted) operatives and forms part of the standard curriculum at the\nLima Operational Academy.\nThe doctrine rests on six core principles:\n1. Suspension is a decisive resource, not a continuous capability. Treat each activation as\nammunition.\n2. Sequence determines lethality. A single suspension rarely wins an engagement; ordered chains\nof three define the doctrine.\n3. Acquisition is the vulnerability. Protect the 1.2-second targeting window above all.\n4. Tail momentum is the payoff. Plan terminal vectors before activating.\n5. Cooldown discipline is non-negotiable. Operate as if the matrix is enforced by a third party.\n6. Withdraw before exhaustion. Three activations and reset.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.2",
+    "title": "The Three-Two-One Rule",
+    "level": 2,
+    "page_start": 22,
+    "page_end": 23,
+    "raw_text": "The asset's signature tactical heuristic, drilled into Cell Halcón operations and taught at Lima Academy:\nThree activations maximum per 60-second window\nTwo active sightlines maintained at any moment\nOne pre-anchored extraction route held in reserve\nViolations of any element trigger an automatic call-off by the cell handler (Lt. Bauer-Cortez monitors via\nReset Bracer telemetry). Documented violations: 7 since 2022, of which 5 produced operational\nSLATEFALL_DOSSIER.md\n2026-05-18\n22 / 50\nanomalies.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.3",
+    "title": "Tier-Based Engagement Protocols",
+    "level": 2,
+    "page_start": 23,
+    "page_end": 23,
+    "raw_text": "PAMC Threat Tier definitions are detailed in §7.1. Engagement protocols differ as follows:\nThreat\ntier\nAsset's permitted engagement\nStanding rules\nTier 1\nSolo, full authority\nNo restrictions\nTier 2\nSolo or cell, full authority\nComms check every 12 minutes\nTier 3\nCell required, lead authority\nThree-Two-One enforced strictly\nTier 4\nCell required, mass-cooldown protocol\nCalexin-7 dose pre-loaded; PAMC HQ on\nstandby relay\nTier 5\nCell + auxiliary cell, Director's\nauthorization required\nFull pre-mission CBMP medical clearance,\n96-hour rest preceding\nThe asset is not authorized to engage Tier 5 threats solo under any condition.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.4",
+    "title": "The Tail-Strike Technique",
+    "level": 2,
+    "page_start": 23,
+    "page_end": 23,
+    "raw_text": "The Tail-Strike exploits Tail Momentum (§2.6) to deliver compounded impacts that cannot be achieved\nby linear projectile motion alone:\n1. The asset throws a baton at a target.\n2. Mid-flight, she suspends the baton, halting it in space.\n3. While suspended, she physically repositions the baton (e.g., rotating it, advancing it along its path\nwith a hand-push).\n4. On release, the baton resumes its original momentum from its new position — striking with vector\nconsistent with original throw but originating closer.\nThe result: a strike delivered at full thrown velocity but from an arbitrary, target-adjacent location.\nAdversary counter-prediction of trajectory becomes nearly impossible. Cumulative Tail-Strike\napplications logged through 2025: 312 (§2.17).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.5",
+    "title": "The Drop-Tune Manoeuvre",
+    "level": 2,
+    "page_start": 23,
+    "page_end": 23,
+    "raw_text": "Drop-Tune is the standard activation pattern around the contact-exclusion rule (§2.8):\n1. Asset releases an object she is holding.\n2. After ~0.3 seconds, the contact-exclusion field clears.\n3. Asset suspends the released object before it strikes anything.\nThe technique permits a meaningful one-second window between release and engagement target\nacquisition. The exact 0.3 s minimum has been internalized as muscle memory; the asset's Cell Halcón\ntraining videos use a metronome cue to instill the rhythm in new operatives.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.6",
+    "title": "The Suspended Field Technique",
+    "level": 2,
+    "page_start": 23,
+    "page_end": 24,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n23 / 50\nThe Suspended Field uses the tertiary Hold ability (§2.11) to maintain multiple low-mass objects\n(typically batons) in mid-air simultaneously, creating a transient kinetic-cover zone:\nMaximum simultaneously held objects: 4 (matching available activations within a 60-s window\nminus a 1-suspension reserve)\nHold duration per object: up to 4 s\nField deployment time: ~12 seconds\nField collapse: simultaneous release of all held objects with full Tail Momentum, producing a\ndirected multi-baton strike\nCumulative Suspended Field deployments through 2025: 89.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.7",
+    "title": "Mountain-Warfare Carryover Doctrine",
+    "level": 2,
+    "page_start": 24,
+    "page_end": 24,
+    "raw_text": "The asset's Chilean Army background informs four standing carryover doctrines:\n1. Snow-Anchor Triage: never advance past an anchor without verifying it. Carried over from rope-\nrescue protocols.\n2. Three-Point Contact: always maintain three secure contacts (hand, foot, anchor) when traversing\nvertical terrain — applied to mark-placement scenarios.\n3. Altitude Acclimatization Protocol: above 3,800 m, mandatory 48-hour acclimatization period\nunless emergency engagement.\n4. Whiteout Withdrawal: below 12 m visibility, withdrawal is automatic regardless of mission priority.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.8",
+    "title": "Civilian Collateral Threshold",
+    "level": 2,
+    "page_start": 24,
+    "page_end": 24,
+    "raw_text": "PAMC Standing Order 9 specifies a zero-tolerance threshold below 80% confidence that no civilian\nharm will occur from any planned activation. The asset is empowered to abort engagement at her sole\ndiscretion if civilian risk exceeds the threshold. Documented aborts on civilian-risk grounds since 2019:\n31.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.9",
+    "title": "Reconnaissance Sequencing",
+    "level": 2,
+    "page_start": 24,
+    "page_end": 24,
+    "raw_text": "Standard pre-engagement reconnaissance for cell-led operations follows the 72-hour saturation\nprotocol:\nT−72h to T−48h: passive surveillance (Pajarera asset network if available)\nT−48h to T−24h: physical site survey by Sgt. Quispe-Linares\nT−24h to T−12h: electromagnetic survey by Lt. Bauer-Cortez\nT−12h to T−4h: medical and metabolic prep (Cpl. Vendrame)\nT−4h to T−0h: final cell briefing and equipment check\nSolo deployments allow compression of this schedule to a 24-hour minimum, but not less.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.10",
+    "title": "The Four-Minute Window",
+    "level": 2,
+    "page_start": 24,
+    "page_end": 24,
+    "raw_text": "The Four-Minute Window is the asset's standing extraction discipline: from initiation of withdrawal, the\ncell must reach the pre-anchored extraction route within four minutes. The figure derives from observed\nadversary response times during the Mendoza engagement and has held as a planning constant since\n2022.\nSLATEFALL_DOSSIER.md\n2026-05-18\n24 / 50",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.11",
+    "title": "The Twelve Combat Directives",
+    "level": 2,
+    "page_start": 25,
+    "page_end": 25,
+    "raw_text": "The asset's published standing combat directives (PAMC Internal Bulletin 22-19):\n1. Acquire targets only when extraction is mapped.\n2. Never activate without verifying the contact-exclusion radius.\n3. Hold one activation in reserve until extraction.\n4. Cooldown discipline overrides tactical opportunity.\n5. Civilian risk overrides cooldown discipline.\n6. Engage Tier 4 only with two extraction routes verified.\n7. Never self-suspend while gripping a weapon.\n8. Never engage above 4,800 m without acclimatization.\n9. Never engage below 12 m visibility.\n10. Withdraw at 80% targeting fatigue (Reset Bracer abort threshold).\n11. Always release a captured Calexin-7 supply to the medic before engagement.\n12. Never break radio silence on the Yatiri-3 burst comms during targeting.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "5.12",
+    "title": "Documented Doctrine Departures",
+    "level": 2,
+    "page_start": 25,
+    "page_end": 25,
+    "raw_text": "Date\nIncident\nDeparture\nOutcome\n17 May\n2021\nAntofagasta\nDirective 9 violated (low visibility)\nSuccessful but injury\nsustained\n4 Jun\n2022\nMendoza\nDirective 10 violated (continued past\nfatigue threshold)\nPyrrhic (civilian\ncasualties)\n14 Aug\n2023\nSalta\nDirective 6 violated (engaged Tier 4 with\nsingle route)\nCatastrophic\nEach departure is referenced in formal after-action review materials and is taught at Lima Academy as a\ndoctrinal case study.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.1",
+    "title": "The Pan-American Metahuman Cooperative (PAMC)",
+    "level": 2,
+    "page_start": 25,
+    "page_end": 26,
+    "raw_text": "Parent organization: the Pan-American Metahuman Cooperative (PAMC), founded 22 May 2014\nthrough the Treaty of Quito by the governments of nine Western Hemisphere states. Headquartered at\nEdificio Marasol, Avenida Salaverry 1840, Lima.\nFounding signatories: Chile, Peru, Bolivia, Argentina, Colombia, Ecuador, Costa Rica, Uruguay,\nCanada (observer)\nCurrent member states: 12 (added Mexico 2017, Panama 2019, Paraguay 2023)\nRegistered operatives: 217 (as of 1 January 2026)\nDirector-General: María-Elena Espósito-Tagle (Argentine; term 2022–2027)\nBudget (FY 2026): USD $382 million across all directorates\nSLATEFALL_DOSSIER.md\n2026-05-18\n25 / 50\nThe Cooperative operates four directorates: Operations, Behavioral Health, Logistics, and the\nCooperative Bureau of Metahuman Physics (CBMP). SLATEFALL is administratively assigned to the\nAndean Operations Bureau under the Operations Directorate.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.2",
+    "title": "Cell Halcón",
+    "level": 2,
+    "page_start": 26,
+    "page_end": 26,
+    "raw_text": "Cell Halcón is the four-operative tactical unit under SLATEFALL's command. Composition was finalized\n11 October 2022:\nMember\nRole\nStatus\nJoined cell\nSLATEFALL (Inez Calvache-\nRenström)\nLead Officer\nMetahuman A-2\n1 Aug 2022\nLt. Solène Bauer-Cortez\nTechnical\nSpecialist\nMetahuman C-1 (EM\nsensing)\n11 Oct\n2022\nSgt. Mateo Quispe-Linares\nTracker / Recon\nCivilian\n11 Oct\n2022\nCpl. Raúl Vendrame\nField Medic\nCivilian\n18 Jan\n2023\nThe cell is rated for Tier 4 engagements and has logged 47 operations as a complete unit through 31\nDecember 2025. Cell mortality: 0. Cell injury rate: 4 (non-fatal) across all operations.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.3",
+    "title": "Cell Halcón Member Profiles",
+    "level": 2,
+    "page_start": 26,
+    "page_end": 27,
+    "raw_text": "Lt. Solène Bauer-Cortez\nAge 31, born Geneva, Switzerland; naturalized Argentine citizen 2017\nPAMC tenure 5 years\nMetahuman classification: Class C-1 (Electromagnetic Sensing) — perceives EM emissions from\n30 Hz to 6 GHz within 80 m\nEngineering education: ETH Zürich, MSc Electrical Engineering 2018\nDesigned the Reset Bracers (§4.6)\nLanguages: French, German, Spanish, English\nReports directly to SLATEFALL for tactical matters; reports to Director Salvatierra for technical R&D\nSgt. Mateo Quispe-Linares\nAge 38, born La Paz, Bolivia\nCivilian (no metahuman classification)\nPrior service: Bolivian Special Forces, Regimiento Bolívar, 14 years\nSpecialty: high-altitude tracking, alpine reconnaissance\nLanguages: Spanish, Aymara, Quechua, English\nJoined PAMC 2019; rotated through three cells before Cell Halcón\nCpl. Raúl Vendrame\nSLATEFALL_DOSSIER.md\n2026-05-18\n26 / 50\nAge 29, born Mendoza, Argentina\nCivilian\nPrior service: Argentine Army medical corps, 6 years\nSpecialty: trauma surgery, altitude medicine, metahuman physiology (PAMC-certified 2023)\nLanguages: Spanish, English, Portuguese (working)\nPrimary administrator of the asset's Calexin-7 regimen during operations",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.4",
+    "title": "Senior PAMC Allies",
+    "level": 2,
+    "page_start": 27,
+    "page_end": 27,
+    "raw_text": "Director Aída Salvatierra-Bunge\nAge 58, born Buenos Aires\nDirector, PAMC Operations Directorate, Lima\nPAMC career since 2015; prior career as Argentine Federal Intelligence officer\nThe asset's direct chain-of-command superior since 2022\nAuthorized to override all engagement decisions except Director-General-level orders\nDr. Léon Marrón-Saavedra\nAge 64, born Mérida, Venezuela\nSenior scientist, CBMP\nCo-author of the Calvache–Marrón Equations\nConducts annual scientific re-evaluations of the asset's power (§2.19)\nDr. Maite Borghi-Castelnuovo\nAge 47, born Lima\nSenior psychologist, PAMC Behavioral Health\nThe asset's continuing mental-health practitioner since 2020",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.5",
+    "title": "External Civilian Allies",
+    "level": 2,
+    "page_start": 27,
+    "page_end": 28,
+    "raw_text": "Dr. Catalina Renström-Verdugo (spouse)\nCivilian, no metahuman classification\nPediatric oncologist, Clínica Las Condes, Santiago\nPAMC Civilian Liaison Clearance Level 3 (granted January 2024)\nOccasional consultant on pediatric-related civilian rescue operations (2 documented advisory\ncases)\nComandante Ezequiel Ovalle-Garrido\nAge 51, Chilean Army active duty\nLiaison officer between PAMC and Chilean Army Andean Brigade\nLong-standing professional relationship with the asset (pre-PAMC, dating to 2014)\nAuthorized to coordinate Chilean Army support for PAMC operations in Chilean territory\n\"Pajarera\" / Tessa Roehl\nSLATEFALL_DOSSIER.md\n2026-05-18\n27 / 50\nAge 43, dual German-Bolivian citizen\nCivilian intelligence asset based in La Paz\nOperates a small import-export consultancy as cover\nContact frequency: approximately monthly\nCompensated through Cooperative discretionary fund\nHermana Asunta Mendieta\nAge 67, Bolivian, member of the Order of the Sisters of Mercy\nNon-combatant safehouse keeper, Cuzco (PAMC Safehouse C-3, §8.4)\nTenure with PAMC: since 2017\nProvides medical and shelter services during transit operations",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.6",
+    "title": "Former Affiliations",
+    "level": 2,
+    "page_start": 28,
+    "page_end": 28,
+    "raw_text": "Chilean Army — formal affiliation ended 28 February 2019, but informal channel remains through\nComandante Ovalle-Garrido\nEscuela Militar Bernardo O'Higgins — alumna; occasional guest lecturer when on leave (2\nlectures since 2022)\nCEM Río Blanco — former instructor; consulted by current cadre on at least 4 occasions since\n2019\nOEA-MAR — formal affiliation lapsed; informal coordination remains",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.7",
+    "title": "Tolerated-But-Hostile Relationships",
+    "level": 2,
+    "page_start": 28,
+    "page_end": 28,
+    "raw_text": "PAMC Inspector General Magnus Sletten (the \"Underwriter\" — see §7.6) — adversarial\nbureaucratic figure within the same parent organization. Formal correspondence channel\nmaintained; no in-person meetings since 2024.\nOperative MARTILLO / Joaquín Hidalgo-Yáñez — PAMC Class A-1 operative, Caracas Cell.\nDocumented professional friction since 2023; coordination only when mandated by command.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.8",
+    "title": "Allies Roster Summary",
+    "level": 2,
+    "page_start": 28,
+    "page_end": 29,
+    "raw_text": "Name / Codename\nRole\nTenure with asset\nTrust rating (1–\n5)\nSolène Bauer-Cortez\nCell technical lead\n3 yrs\n5\nMateo Quispe-Linares\nCell tracker\n3 yrs\n5\nRaúl Vendrame\nCell medic\n3 yrs\n5\nAída Salvatierra-Bunge\nOperations\nDirector\n4 yrs\n4\nLéon Marrón-Saavedra\nCBMP physicist\n7 yrs\n4\nMaite Borghi-\nCastelnuovo\nPsychologist\n6 yrs\n5\nSLATEFALL_DOSSIER.md\n2026-05-18\n28 / 50\nName / Codename\nRole\nTenure with asset\nTrust rating (1–\n5)\nCatalina Renström-\nVerdugo\nSpouse\n4 yrs (relationship); married 2\nyrs\n5\nEzequiel Ovalle-Garrido\nArmy liaison\n12 yrs\n4\nTessa Roehl (\"Pajarera\")\nCivilian intel\n3 yrs\n3\nAsunta Mendieta\nSafehouse keeper\n4 yrs\n4",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.9",
+    "title": "Operational Auxiliaries and Reserve Contacts",
+    "level": 2,
+    "page_start": 29,
+    "page_end": 30,
+    "raw_text": "In addition to the principal allies enumerated above, the asset maintains a network of auxiliaries —\npersonnel cleared for limited operational interaction without full PAMC affiliation. As of revision date, 14\nauxiliaries are listed in the asset's Cooperative-approved contact roster:\nAuxiliary\nRole\nLocation\nAffiliation\nCap. Diego Maluenda-\nRiffo\nChilean Carabineros liaison\nValparaíso\nChilean national\npolice\n\"Carrera\" (true name\nredacted)\nBlack-market munitions supplier\nIquique\nIndependent\nProfa. Aliéndez de la\nVega\nUCh historian, archival access\nSantiago\nCivilian academic\nDr. Bartolomé Wirth-\nYáñez\nVeterinarian, animal-rescue\nextractions\nMendoza\nCivilian\n\"Plata Vieja\"\nCurrency runner, micro-cache top-\nups\nLa Paz\nIndependent\nInsp. Hilario Pacheco-\nSolar\nArgentine federal police, intel\nexchange\nSalta\nArgentine state\n\"Sastre\" (true name\nredacted)\nForger of secondary identity\ndocuments\nCuzco\nIndependent\nDr. Verónica Hagedorn-\nMesa\nPediatric trauma surgeon, civilian-\ncasualty triage\nAntofagasta\nCivilian\nCapt. (ret.) Fermín\nCalderón-Brun\nFormer CEM cadre, mountain\nextraction\nCoyhaique\nCivilian, ex-\nmilitary\n\"Tórtola\"\nCommunications relay operator\nTrelew\nCivilian\nLic. Marta Spiess-\nQuiroga\nLawyer, civilian-affairs counsel\nLima\nCivilian\nComdt. Erlind Halvorsen\nNorwegian Coast Guard liaison\n(anti-Concession)\nTromsø\nForeign\ngovernment\nSLATEFALL_DOSSIER.md\n2026-05-18\n29 / 50\nAuxiliary\nRole\nLocation\nAffiliation\n\"Ñandú\" (true name\nredacted)\nDrone operator, surveillance\ncontracts\nBariloche\nIndependent\nSra. Inocencia Lemus-\nVargas\nCook and housekeeper, S-1\nsafehouse\nPunta\nArenas\nCivilian\nAuxiliaries are recompensed via Cooperative discretionary funds at standardized rates (USD $400–\n$2,400 per engagement, depending on risk class). All payments are logged and audited annually by the\nPAMC Inspector General's office.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "6.10",
+    "title": "Inter-Cooperative Liaisons",
+    "level": 2,
+    "page_start": 30,
+    "page_end": 30,
+    "raw_text": "Formal liaison relationships are maintained with three sister organizations:\nNordic Metahuman Operations Cell (NMOC) — joint training rotations every 18 months\nEuropean Metahuman Reserve (EUMR) — case-data exchange, four reciprocal briefings per year\nEast Asian Metahuman Compact (EAMC) — observer status, biennial conference attendance\nThe asset attended the 2024 Pan-Cooperative Summit in Lisbon as one of three PAMC representatives,\npresenting a redacted briefing on the Doctrine of Sequential Suspension.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.1",
+    "title": "PAMC Threat Tier Classification System",
+    "level": 2,
+    "page_start": 30,
+    "page_end": 31,
+    "raw_text": "The Cooperative classifies metahuman and organized-paramilitary threats into five tiers under the\nNMOC-derived Threat Tier Schedule, ratified 11 March 2017 and most recently amended Q1 2025. Tier\nassignment is governed by the following quantitative criteria:\nTier\nPower output ceiling\nCasualty potential\n(unmitigated)\nEngagement authority\nrequired\nTier 1\n< 0.5 kJ kinetic\nequivalent\n≤ 1 civilian\nField operative, solo\nTier\n2\n0.5–25 kJ\n2–10 civilians\nField officer, solo or cell\nTier\n3\n25–500 kJ\n11–100 civilians\nLead officer, cell required\nTier\n4\n500 kJ – 50 MJ\n101–5,000 civilians\nLead officer + auxiliary on\nstandby\nTier\n5\n> 50 MJ or strategic-\nscale\n> 5,000 civilians\nDirector-General authorization\nTier ratings are reassessed annually or upon documented capability change. The asset has personally\nengaged threats up to Tier 4 (Tropopausa, Quebrantadero); no Tier 5 engagement is presently\nSLATEFALL_DOSSIER.md\n2026-05-18\n30 / 50\nauthorized.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.2",
+    "title": "Named Adversary Roster — Overview",
+    "level": 2,
+    "page_start": 31,
+    "page_end": 31,
+    "raw_text": "The asset's documented adversary roster comprises seven principal named threats and three\nnetworked organizations. The full roster is reviewed quarterly by the Andean Operations Bureau.\nCodename\nCivilian ID\nTier\nStatus\nFirst\ncontact\nTropopausa\nEliseo Mardones-\nVodanovic\n4\nActive, contained\n2024\n3 Jun 2022\nEl Sereno\nUnknown\n3\nActive, at-large\n11 Apr 2023\nQuebrantadero\nWilma Sandoval-Iqui\n4\nActive, escaped\n2023\n14 Aug\n2023\nCabrestante\nPablo Eyzaguirre-Pinto\n3\nCaptured 2025\n18 Sep\n2024\nUnderwriter\nMagnus Sletten\n2 (bureaucratic)\nActive, in-system\n9 Feb 2024\nMar Inverso\nUnknown\n5 (projected)\nActive, unconfirmed\n22 Dec\n2025\nIron Tributary\nMultiple\n3\n(organizational)\nActive\n7 Mar 2024",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.3",
+    "title": "Tropopausa / Eliseo Mardones-Vodanovic",
+    "level": 2,
+    "page_start": 31,
+    "page_end": 32,
+    "raw_text": "Codename: Tropopausa Civilian identity: Eliseo Mardones-Vodanovic, born 1981, San Bernardo, Chile\nProfession (cover): atmospheric scientist; formerly affiliated with the Centro de Estudios Climáticos\nde Valparaíso (CECV) Tier: 4\nPowers: atmospheric pressure manipulation within a 40-meter radius. Capable of inducing local pressure\ndifferentials up to ±0.62 atm in a 4-second interval, producing acute barotrauma in unprotected\npersonnel and disabling small aircraft engines. He cannot create wind ex nihilo but can redistribute\nexisting pressure gradients with high precision.\nDocumented limits:\nField-creation cooldown: 18 seconds between activations\nMaximum sustained field duration: 22 seconds before metabolic collapse\nVulnerable to acoustic disruption above 140 dB\nCannot operate above 5,800 m altitude (atmospheric thinning disables binding)\nClass A-2 (Targeted) — same scientific class as SLATEFALL, but on a different operational axis\nThreat profile vs. SLATEFALL: Tropopausa's pressure fields can interfere with SLATEFALL's targeting\nacquisition by introducing tinnitus-grade interior-ear disturbance. Acoustic shock from his pressure\npulses has produced one documented targeting interruption (Mendoza, 2022).\nSLATEFALL_DOSSIER.md\n2026-05-18\n31 / 50\nEngagement history: 4 documented engagements through 2025 (Mendoza 2022, Antofagasta 2023,\nIquique 2023, Coquimbo 2024). Currently contained at the PAMC Restraint Facility, Iquique (since\nNovember 2024).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.4",
+    "title": "El Sereno",
+    "level": 2,
+    "page_start": 32,
+    "page_end": 32,
+    "raw_text": "Codename: El Sereno Civilian identity: Unknown; suspected male, Andean ancestry, age 30–45 Tier: 3\nPowers: nocturnal sensory enhancement (multi-spectral, including thermal IR to 14 μm) and a\ndocumented capacity for kinetic dampening of his own footfalls and respiration. Approaches targets in\nabsolute silence; documented sound floor during approach: −12 dB SPL (below ambient).\nDocumented limits:\nAll capabilities suppressed by direct sunlight or visible-spectrum illumination above 1,200 lux\nDocumented hearing impairment in left ear (left-side targeting penalty)\nOperates exclusively between local dusk and 1.5 hours before local dawn\nThreat profile vs. SLATEFALL: El Sereno is the asset's most dangerous nocturnal threat because his\nstealth approaches degrade SLATEFALL's targeting acquisition (which depends on visual perception).\nDrift Read provides partial counter-defense within 3 m.\nEngagement history: 3 confirmed engagements (Iquique 2023, Antofagasta 2024, Arica 2025); all\ninconclusive. He is the longest-standing at-large adversary on the asset's roster.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.5",
+    "title": "Quebrantadero / Wilma Sandoval-Iqui",
+    "level": 2,
+    "page_start": 32,
+    "page_end": 32,
+    "raw_text": "Codename: Quebrantadero Civilian identity: Wilma Sandoval-Iqui, born 1979, Oruro, Bolivia Profession\n(cover): orthopedic surgeon (revoked license 2022) Tier: 4\nPowers: induces controlled bone-density fluctuation in mammalian subjects within a 14-meter radius by\nline-of-sight contact. Effects range from temporary fragility (osteopenia-equivalent for ~6 hours) to\nacute fracture cascades.\nDocumented limits:\nCannot affect non-mammalian biology\nTargeting requires 2.4-second focus, with audible vocalization\nCounterable by lead-lined shielding (≥ 6 mm thickness)\nEffect non-cumulative; subsequent re-targeting within 30 minutes produces only 12% additional\ndensity change\nThreat profile vs. SLATEFALL: Quebrantadero's effect is targeted at biological tissue, not inanimate\nmatter — meaning SLATEFALL's primary kinetic implements are unaffected, but the asset herself is highly\nvulnerable. The 14 August 2023 Salta engagement (§3.10) produced 11 civilian casualties from a\nQuebrantadero pulse the asset failed to interdict.\nEngagement history: 2 documented engagements (Salta 2023, Cuzco 2024). Currently at-large.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.6",
+    "title": "Underwriter / Magnus Sletten",
+    "level": 2,
+    "page_start": 32,
+    "page_end": 33,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n32 / 50\nCodename: Underwriter (asset-side designation; he holds no internal codename) Civilian identity:\nMagnus Sletten, age 58, Norwegian-Argentine dual citizen Position: PAMC Inspector General\n(Administrative Compliance), Lima HQ Tier: 2 (bureaucratic threat assessment; no kinetic capability)\nDescription: Inspector General Sletten is classified an adversary not because of metahuman capability\nbut because of sustained adversarial bureaucratic action against the asset's operational profile. Between\n2024 and 2026 he initiated eleven formal audits of SLATEFALL operations, three of which sought\ndisciplinary referral; all three were dismissed. His professional position renders him institutionally\nprotected; engagement protocols are therefore non-kinetic and procedural only.\nThreat profile vs. SLATEFALL: the threat is operational restriction, not physical harm. Case 2025-0019\n(§9.8) was a counter-audit defensive engagement, terminating in audit reversal by the Director-General.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.7",
+    "title": "Cabrestante / Pablo Eyzaguirre-Pinto",
+    "level": 2,
+    "page_start": 33,
+    "page_end": 33,
+    "raw_text": "Codename: Cabrestante Civilian identity: Pablo Eyzaguirre-Pinto, born 1975, Calama, Chile Profession\n(cover): mining-machinery engineer Tier: 3\nPowers: none innate; classified as a metahuman-adjacent adversary by virtue of his cybernetic\naugmentation. His augments include:\nReinforced cervical and thoracic skeleton (titanium-composite, +18 kg total mass)\nHydraulic right arm rated to 4.2-ton lift, 1.4-ton sustained\nOptical implant providing 8× zoom and thermal vision\nSubcutaneous power-cell array, 14-hour duty cycle\nDocumented limits:\nAugments fail catastrophically below −12 °C ambient\nEMP exposure above 0.2 T disables optical and hydraulic systems for 4–12 hours\nAugment maintenance requires monthly servicing at a specialized facility (one suspected facility\nidentified, Potosí, 2024)\nThreat profile vs. SLATEFALL: Cabrestante's hydraulic arm exceeds the 240 kg mass ceiling for direct\nInertial Suspension, but separate suspended-component attacks (e.g., suspending his arm at the elbow\njoint) have proven effective. Combat record vs. SLATEFALL: 1 engagement (Potosí, September 2025,\nCase 2025-0156, §9.9), captured.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.8",
+    "title": "Iron Tributary",
+    "level": 2,
+    "page_start": 33,
+    "page_end": 33,
+    "raw_text": "Designation: Iron Tributary Type: organized paramilitary cell, Caucasus-trained, 22 confirmed members\nTier: 3 (organizational; mixed individual capability) Operational territory: northern Argentina, Bolivia,\nsouthern Peru Funding: suspected illicit mining revenue, USD ~$28 million annually\nIron Tributary is a paramilitary group of mixed-discipline operatives, including at least 3 metahuman\nmembers (1 Tier 2, 2 Tier 1). The cell has clashed with PAMC operations 7 times since 2022. SLATEFALL\nhas engaged the cell on 2 occasions (Tarapacá 2024, Cuzco 2025), with successful outcomes.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.9",
+    "title": "The Concession",
+    "level": 2,
+    "page_start": 33,
+    "page_end": 34,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n33 / 50\nDesignation: The Concession Type: corporate-paramilitary syndicate Membership: 62 confirmed\nmembers, estimated up to 110 total Headquarters (suspected): Industrial Park \"El Tronco,\" Antofagasta\nProvince Tier: Tier 3 organizational; individual operatives range Tier 1–3\nThe Concession is a private-sector security syndicate offering metahuman-augmented services to the\nmining and energy industries of the Southern Cone. It has engaged PAMC operations 14 times since\n2022; SLATEFALL has personally engaged Concession operatives 5 times (Tarapacá raid Case 2024-\n0034 being the most significant, §9.6).\nKey Concession personnel known to the asset:\nHugo Lacassagne-Esteban — head of operations, age 49, former Argentine Federal Police\n\"Cataract\" / Helene Drovac — optical-disruption metahuman, Tier 3, Concession contract\noperative\nYannik Brizuela — financial controller, civilian",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.10",
+    "title": "Mar Inverso (Projected Tier 5)",
+    "level": 2,
+    "page_start": 34,
+    "page_end": 34,
+    "raw_text": "Codename: Mar Inverso Civilian identity: Unknown Tier: projected 5; unconfirmed First indication: 22\nDecember 2025, intelligence intercept (source: Pajarera)\nMar Inverso is the asset's most pressing emergent threat. Intelligence intercepted in late 2025 references\na metahuman with inertial inversion capability — projected to be the operational inverse of\nSLATEFALL's power, capable of multiplying the inertia of target objects rather than nullifying it. No direct\nengagement has occurred; physical evidence is limited to two unexplained vehicle incidents (Mendoza\nport, August 2025; La Paz suburb, November 2025) in which heavy vehicles exhibited momentary mass-\nspikes inconsistent with conservation principles.\nIf confirmed, Mar Inverso would represent the only known operational counter-symmetric threat to\nSLATEFALL's primary power. PAMC has elevated the file to Andean Operations Bureau Priority 1 as of\nJanuary 2026. The asset is not currently authorized to engage Mar Inverso solo.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.11",
+    "title": "The Audiencia",
+    "level": 2,
+    "page_start": 34,
+    "page_end": 34,
+    "raw_text": "Designation: The Audiencia Type: bureaucratic-adversary cluster within PAMC oversight bodies\nMembership: estimated 7–12 senior administrators (4 confirmed) Tier: 2 (bureaucratic, non-kinetic)\nThe Audiencia is a faction within PAMC's senior administration that opposes the current operational\nprofile of Class A-2 assets, including SLATEFALL. The Underwriter (§7.6) is associated but not formally a\nmember. The Audiencia's documented actions include three failed motions to reclassify SLATEFALL to a\nnon-combatant role (2024 ×1, 2025 ×2).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.12",
+    "title": "Adversary Engagement Frequency Statistics",
+    "level": 2,
+    "page_start": 34,
+    "page_end": 35,
+    "raw_text": "Cumulative engagement statistics across all named threats:\nAdversary\nEngagements\nWins (PAMC)\nLosses\nInconclusive\nTropopausa\n4\n3\n0\n1\nEl Sereno\n3\n0\n0\n3\nSLATEFALL_DOSSIER.md\n2026-05-18\n34 / 50\nAdversary\nEngagements\nWins (PAMC)\nLosses\nInconclusive\nQuebrantadero\n2\n0\n1\n1\nCabrestante\n1\n1\n0\n0\nUnderwriter\n(bureaucratic only)\n3\n0\n0\nIron Tributary\n2\n2\n0\n0\nThe Concession\n5\n4\n0\n1\nMar Inverso\n0\n—\n—\n—",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.13",
+    "title": "Emergent Threat Forecast (2026–2027)",
+    "level": 2,
+    "page_start": 35,
+    "page_end": 35,
+    "raw_text": "The Andean Operations Bureau projects the following emergent threats over the next 18 months:\n1. Mar Inverso confirmation and engagement — high probability within 2026.\n2. Quebrantadero re-emergence in northern Chile — moderate probability; medical-supply\nintercepts suggest she remains in the region.\n3. El Sereno geographic expansion — sighting pattern suggests southward expansion into Atacama.\n4. The Concession diversification — financial intelligence suggests planned expansion into Andean\nlithium operations; likely Cell Halcón engagement within 12 months.\n5. A new bureaucratic challenge from the Audiencia following the 2026 PAMC Annual Review.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.14",
+    "title": "Minor Adversaries and Watch-List Entities",
+    "level": 2,
+    "page_start": 35,
+    "page_end": 36,
+    "raw_text": "The asset's secondary threat roster — entities flagged for monitoring but not yet considered primary\nengagement risks — comprises eight Watch-List entries (W-001 through W-008):\nID\nDesignation\nCapability summary\nTier\nStatus\nW-\n001\n\"Calamina\" / Patricio\nRojas-Salinas\nSheet-metal manipulation, ≤ 6 mm\nthickness\n2\nInactive since\n2024\nW-\n002\n\"Higrómetro\" (identity\nunknown)\nHyper-localized humidity\nmanipulation\n1\nAt-large, low-\npriority\nW-\n003\n\"Carbonero\" / Iván\nBelalcázar-Yepes\nCarbon-soot generation,\nasphyxiation risk\n2\nCustody (CBMP,\nLima)\nW-\n004\n\"La Pastora\" / Yulia\nMartsenyuk\nAnimal-herd influence, livestock-\nonly\n1\nInactive\nW-\n005\n\"Tornillero\" / Davor\nKrznarić\nMechanical-fastener manipulation,\nferrous metals\n2\nActive, Argentina\nW-\n006\n\"Bocatoma\" (identity\nunknown)\nSmall-stream redirection, ≤ 50 L/s\n1\nAt-large,\nPatagonia\nW-\n007\n\"Chasqui\" / Eduardo\nPizarro-Lanata\nLocalized footspeed boost, +35%,\n90 s window\n2\nActive, Cuzco\nregion\nSLATEFALL_DOSSIER.md\n2026-05-18\n35 / 50\nID\nDesignation\nCapability summary\nTier\nStatus\nW-\n008\n\"Plomo Frío\" (identity\nunknown)\nCooling of small ferrous masses to\n−60 °C\n2\nAt-large, Bolivia\nThe Watch List is reviewed quarterly by Cell Halcón technical specialist Lt. Bauer-Cortez. Promotion to\nthe primary adversary roster requires either three documented engagements or a single incident\nproducing more than 5 civilian casualties.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.15",
+    "title": "Defunct or Neutralized Adversaries (Historical)",
+    "level": 2,
+    "page_start": 36,
+    "page_end": 36,
+    "raw_text": "The following former adversaries are no longer active or are confirmed deceased and are retained for\nhistorical reference only:\n\"Bambolla\" / Ezekiel Hartog-Maan — explosive-fabrication metahuman; killed in own accidental\ndetonation, 2022\n\"Reverso\" / Anabella Trumler — minor mirror-image projector; defected to PAMC custody 2023,\ncurrently civilian\n\"El Funicular\" (identity unconfirmed) — kinetic anchor-line manipulator; suspected deceased in\n2024 avalanche\n\"Quilatera\" / Hortencia Pavón-Vasconcelos — gemstone-resonance metahuman; convicted\ncivilian fraud, no metahuman activity since 2021",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "7.16",
+    "title": "Threat Assessment Methodology Notes",
+    "level": 2,
+    "page_start": 36,
+    "page_end": 36,
+    "raw_text": "The asset's adversary roster is compiled using the NMOC-Lima Hybrid Scoring Matrix (NLHSM), which\nweights:\nPower output (40%)\nOperational sophistication (25%)\nNetworked support (15%)\nCivilian-collateral propensity (15%)\nAnti-SLATEFALL countermeasure capability (5%)\nQuarterly reassessment is performed by Lt. Bauer-Cortez with CBMP review.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.1",
+    "title": "Primary Base: Cuartel Valparaíso",
+    "level": 2,
+    "page_start": 36,
+    "page_end": 37,
+    "raw_text": "The asset's primary operational base is Cuartel Valparaíso, designated PAMC South Cone\nHeadquarters. The facility occupies a decommissioned Chilean Navy fuel depot at Avenida Altamirano\n1842, Valparaíso, repurposed for PAMC use in 2017.\nParameter\nValue\nTotal floor area\n4,820 m²\nPersonnel capacity\n38 (residential), 142 (working)\nSLATEFALL_DOSSIER.md\n2026-05-18\n36 / 50\nParameter\nValue\nVehicle bay\n12 spaces (including 1 armored bay for the Quiltro V-12)\nComms array\n1 primary Yatiri relay node, 2 backup satellite uplinks\nHelipad\n1 (Bell-415 compatible)\nSubsurface levels\n2 (storage, CBMP regional micro-lab)\nAverage daily population\n47 personnel\nOperational security level\nPAMC Restricted-3\nCuartel Valparaíso houses Cell Halcón's principal quarters, the asset's personal residence wing (44 m²\napartment, Block C), and the regional CBMP medical office. The facility is hardened against EMP\nexposure and EM eavesdropping.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.2",
+    "title": "Secondary Bases",
+    "level": 2,
+    "page_start": 37,
+    "page_end": 37,
+    "raw_text": "Base\nLocation\nFunction\nEdificio\nMarasol\nAvenida Salaverry 1840,\nLima\nPAMC Headquarters; the asset rotates through\nquarterly for senior briefings\nOficina Tarija\nCalle Bolívar 412, La Paz\nField office, Bolivian altiplano operations\nAnnex\nTrelew\nIndustrial Park 7, Trelew,\nArgentina\nLogistics-only annex, southern operations",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.3",
+    "title": "Operational Safehouses",
+    "level": 2,
+    "page_start": 37,
+    "page_end": 38,
+    "raw_text": "The asset has access to five formally maintained safehouses within her operational territory:\nSafehouse\nLocation\nType\nStatus\nS-1\nPunta Arenas,\nMagallanes\nCoastal, residential cover\nActive\nS-2\nMendoza, Argentina\nUrban apartment\nActive\nS-3\nIquique, Tarapacá\nMaritime, port district\nActive\nS-4\nAntofagasta,\nAntofagasta\nIndustrial cover\nActive (rebuilt 2024 after\ndamage)\nS-5\nCuzco, Cusco\nRegion, Peru\nReligious-order cover (Hermana\nMendieta, §6.5)\nActive\nEach safehouse maintains a standardized provisioning standard:\n30-day rations for 4 personnel\nYatiri-2 backup comms unit\n6 baton-cache replacement set\nSLATEFALL_DOSSIER.md\n2026-05-18\n37 / 50\n2 Calexin-7 spare blister packs\n1 backup PAMC-issued identity package (Norwegian, Argentine, Bolivian alternates)\n2,000 USD-equivalent local currency in mixed denominations\nSafehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.4",
+    "title": "Micro-Cache Network",
+    "level": 2,
+    "page_start": 38,
+    "page_end": 38,
+    "raw_text": "The asset maintains a network of 19 micro-caches distributed across the Andean cordillera:\n9 caches in Chile (Atacama 3, central Chile 4, Patagonia 2)\n4 caches in Argentina (Mendoza Province 2, Salta 1, Neuquén 1)\n3 caches in Bolivia (La Paz 1, Potosí 1, Oruro 1)\n2 caches in Peru (Cuzco 1, Arequipa 1)\n1 cache in Ecuador (Cuenca)\nStandard cache contents (PAMC Logistics Form MC-04):\nItem\nQuantity\nTungsten throwing batons (replacement)\n2\nCalexin-7 dose\n4 blisters (8 doses)\nBofedal-3 electrolyte concentrate\n4 packets\nTrauma medical kit (compact)\n1\nLocal currency\n$400 equivalent\nYatiri-2 backup handset\n1\nIdentity package\n1\nCache locations are rotated every 36 months; current placements were finalized in 2024 and will be\nreviewed in 2027.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.5",
+    "title": "Operational Territory",
+    "level": 2,
+    "page_start": 38,
+    "page_end": 38,
+    "raw_text": "The asset's authorized operational territory spans approximately 6.8 million km², encompassing the\nwestern and southern Andean states:\nChile — full territory, including offshore islands except Easter Island (restricted)\nBolivia — full territory\nPeru — full territory south of 10°S latitude\nArgentina — provinces of Mendoza, Salta, Jujuy, Neuquén, Río Negro, and Chubut\nEcuador — limited to provinces of Azuay, Cañar, and Loja\nParaguay — observer territory; no engagements authorized\nBeyond this territory, the asset operates only under Director-General authorization. Two extra-territorial\ndeployments have been authorized since 2019 (Quito 2021, Lima Pan-American Conference 2024).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.6",
+    "title": "Restricted and Forbidden Zones",
+    "level": 2,
+    "page_start": 38,
+    "page_end": 39,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n38 / 50\nThree zones within the asset's operational territory are formally restricted:\nZone\nReason\nStatus\nCerro Castillo exclusion ring (1.6\nkm radius around the 2018 trigger\nsite)\nPsychological; CBMP\nrecommendation since 2020\nThe asset has not entered\nsince the 2018 incident\nSalar de Uyuni Sector 4 (Bolivia)\nStrategic; ongoing classified\nPAMC investigation since 2023\nLimited access, prior\ncoordination required\nEaster Island\nJurisdictional; pending bilateral\nagreement\nNo PAMC operations\nauthorized",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.7",
+    "title": "Communications Infrastructure",
+    "level": 2,
+    "page_start": 39,
+    "page_end": 39,
+    "raw_text": "The asset's operational territory is served by 8 burst-relay nodes within the PAMC Yatiri network:\n1. Valparaíso (primary)\n2. Antofagasta\n3. Arica\n4. La Paz\n5. Cuzco\n6. Salta\n7. Mendoza\n8. Punta Arenas\nNode redundancy: each cell-led operation requires line-of-comms to at least 2 nodes. Operations outside\nrelay coverage require satellite uplink and Director's authorization.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "8.8",
+    "title": "Territorial Agreements with Allied Operators",
+    "level": 2,
+    "page_start": 39,
+    "page_end": 39,
+    "raw_text": "The asset's territory overlaps with several PAMC and partner-organization operators. Formal coordination\nagreements govern these overlaps:\nCell Cóndor (Mendoza-based) — primary operator for Argentine Mendoza and Neuquén;\nSLATEFALL coordinates entry\nOperative MIRADOR (Atacama) — senior PAMC operative, the asset's former trainer\nBolivian Servicio de Operaciones Especiales (SOE) — bilateral cooperation framework, La Paz\nAnnex 2023\nPeruvian Dirección de Asuntos Metahumanos (DAM) — observation-only sharing for Cuzco\noperations",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.1",
+    "title": "Case File Format",
+    "level": 2,
+    "page_start": 39,
+    "page_end": 40,
+    "raw_text": "All cases are recorded under a uniform PAMC format:\nCase number (year-sequence)\nSLATEFALL_DOSSIER.md\n2026-05-18\n39 / 50\nDate (start–end)\nLocation (city, province, country)\nClassification (open / classified / declassified)\nOutcome (Successful / Partial / Inconclusive / Pyrrhic / Catastrophic)\nPAMC casualties (operative, civilian)\nAdversary casualties (captured, killed, escaped)\nPost-action notes",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.2",
+    "title": "Case 2019-0017: Probationary Assessment (Atacama)",
+    "level": 2,
+    "page_start": 40,
+    "page_end": 40,
+    "raw_text": "Case number: 2019-0017\nDate: 22–24 November 2019\nLocation: Atacama Desert, near Tocopilla, Antofagasta Region, Chile\nClassification: Declassified Q4 2020\nOutcome: Successful\nPAMC casualties: none\nAdversary casualties: 2 captured (small-arms smugglers, civilian)\nNotes: First independent operation following probationary period. Demonstrated initial mass-\nceiling stability at 200 kg. Operation concluded ahead of schedule (52 hours actual vs. 72\nplanned).",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.3",
+    "title": "Case 2020-0048: Antofagasta Containment",
+    "level": 2,
+    "page_start": 40,
+    "page_end": 40,
+    "raw_text": "Case number: 2020-0048\nDate: 17–19 May 2021 (delayed action arising from December 2020 incident)\nLocation: Port District, Antofagasta, Chile\nClassification: Declassified Q3 2021 (Report PAMC-PR-2021-006)\nOutcome: Successful, with operative injury\nPAMC casualties: 1 (asset, 14-day medical leave)\nAdversary casualties: 4 captured, 1 escaped\nNotes: Drift Read first manifestation (§3.7). The escaped adversary subsequently identified as a\nlow-tier Concession affiliate. First post-action evaluation prescribed Calexin-7.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.4",
+    "title": "Case 2022-0123: Tropopausa First Engagement (Mendoza)",
+    "level": 2,
+    "page_start": 40,
+    "page_end": 40,
+    "raw_text": "Case number: 2022-0123\nDate: 3–5 June 2022\nLocation: Mendoza Free Trade Zone, Argentina\nClassification: Classified (Tier-2)\nOutcome: Pyrrhic\nPAMC casualties: 1 operative KIA (Cpl. Adolfo Yáñez-Ríos, Cell Cóndor); 3 civilians killed\nAdversary casualties: Tropopausa contained but escaped after 8 hours\nNotes: Engagement triggered formal articulation of the Doctrine of Sequential Suspension. Asset\nsuffered ear barotrauma from pressure pulse; recovered without permanent damage. Case led to\nrevised tactical protocols against pressure manipulators.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.5",
+    "title": "Case 2023-0067: El Sereno Pursuit (Iquique)",
+    "level": 2,
+    "page_start": 40,
+    "page_end": 41,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n40 / 50\nCase number: 2023-0067\nDate: 11–14 April 2023\nLocation: Iquique, Tarapacá Region, Chile\nClassification: Open\nOutcome: Inconclusive\nPAMC casualties: none\nAdversary casualties: none (El Sereno disengaged at dawn)\nNotes: First contact with El Sereno. Demonstrated the limitations of nocturnal engagement\nprofiles. Recommended development of high-lux operation kit; partially implemented 2024.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.6",
+    "title": "Case 2024-0034: Tarapacá Concession Raid",
+    "level": 2,
+    "page_start": 41,
+    "page_end": 41,
+    "raw_text": "Case number: 2024-0034\nDate: 17–18 February 2024\nLocation: Tarapacá Region, Chile (compound near Pozo Almonte)\nClassification: Declassified Q1 2024 (Report PAMC-PR-2024-002)\nOutcome: Successful\nPAMC casualties: 1 wounded (Sgt. Quispe-Linares, leg laceration, 8-day recovery)\nAdversary casualties: 14 Concession affiliates captured; 2 killed in firefight; 1 metahuman\n(\"Cataract\") escaped\nNotes: Major operational success demonstrating Cell Halcón's full capability. The asset deployed\nSuspended Field for the first time in combat. Detained personnel led to seizure of USD $4.2 million\nin Concession assets.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.7",
+    "title": "Case 2024-0202: Quebrantadero Showdown (Salta)",
+    "level": 2,
+    "page_start": 41,
+    "page_end": 41,
+    "raw_text": "Case number: 2024-0202\nDate: 14 August 2023\nLocation: Salta city center, Salta Province, Argentina\nClassification: Classified (Tier-3); inquiry concluded March 2024\nOutcome: Catastrophic\nPAMC casualties: 0 operative; 11 civilian deaths, 27 civilian injuries\nAdversary casualties: Quebrantadero escaped\nNotes: Second Echo Lock event during the engagement (§3.10). Quebrantadero's pulse struck a\ncivilian-density urban target before SLATEFALL could interdict. Formal inquiry recommended three\nprotocol changes (all adopted). Case remains the asset's most prominent operational failure and is\na featured case study at Lima Academy.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.8",
+    "title": "Case 2025-0019: Audiencia Counter-Audit (Lima)",
+    "level": 2,
+    "page_start": 41,
+    "page_end": 42,
+    "raw_text": "Case number: 2025-0019\nDate: 22 January – 18 February 2025\nLocation: PAMC HQ, Lima\nClassification: Sealed (internal proceeding)\nOutcome: Successful (audit reversed)\nPAMC casualties: none\nAdversary casualties: Underwriter referral dismissed; one Audiencia member reassigned\nSLATEFALL_DOSSIER.md\n2026-05-18\n41 / 50\nNotes: Procedural defensive action; included formal testimony by SLATEFALL on 4 February 2025.\nDirector-General Espósito-Tagle issued the final ruling.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.9",
+    "title": "Case 2025-0156: Cabrestante Neutralization (Potosí)",
+    "level": 2,
+    "page_start": 42,
+    "page_end": 42,
+    "raw_text": "Case number: 2025-0156\nDate: 18–22 September 2025\nLocation: Cerro Rico, Potosí, Bolivia\nClassification: Declassified Q4 2025 (Report PAMC-PR-2025-011)\nOutcome: Successful\nPAMC casualties: 1 minor (Lt. Bauer-Cortez, hand burn)\nAdversary casualties: Cabrestante captured; 3 Iron Tributary affiliates captured\nNotes: Coordinated cell engagement utilizing segmented suspension (suspending the hydraulic\narm at the elbow joint rather than the full augment). Demonstrated tactical workaround for above-\nceiling targets. Cabrestante is currently in CBMP medical custody for augment study.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.9.5",
+    "title": "Case 2021-0091: Atacama Altiplano (Drift Read Confirmation)",
+    "level": 3,
+    "page_start": 42,
+    "page_end": 42,
+    "raw_text": "Case number: 2021-0091\nDate: 14–22 September 2021\nLocation: Atacama altiplano, near Socaire, Antofagasta Region, Chile\nClassification: Declassified Q2 2022 (partial)\nOutcome: Partial\nPAMC casualties: none\nAdversary casualties: 1 Concession affiliate captured, 2 escaped\nNotes: First operationally validated deployment of the newly emerged Drift Read ability. The asset\ndetected and interdicted three incoming small-arms rounds across a 36-hour engagement window.\nDrift Read was formally added to the asset's capability registry on 30 September 2021 following\nthis case. CBMP collected the bulk of its early Drift Read telemetry during this operation.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.9.6",
+    "title": "Case 2024-0156: Tallinn-Asunción Liaison",
+    "level": 3,
+    "page_start": 42,
+    "page_end": 42,
+    "raw_text": "Case number: 2024-0156\nDate: 4–17 August 2024\nLocation: Asunción, Paraguay (observer territory) and Tallinn, Estonia (joint EUMR coordination)\nClassification: Classified (Tier-2)\nOutcome: Successful\nPAMC casualties: none\nAdversary casualties: 3 captured (mixed Iron Tributary / EUMR adversary network); 1 fatality\n(non-PAMC operative)\nNotes: Rare extra-territorial deployment authorized by Director-General Espósito-Tagle. Joint\noperation with EUMR operatives HOLLOWMARK and VERIDIAN. The asset spent 9 days in Tallinn\ncoordinating intelligence handoff. First instance of the asset's Inertial Suspension being\ndemonstrated to non-PAMC liaisons under controlled observation. Produced a 14-page joint after-\naction report.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.9.7",
+    "title": "Case 2025-0220: Cordillera Cache Audit",
+    "level": 3,
+    "page_start": 42,
+    "page_end": 43,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n42 / 50\nCase number: 2025-0220\nDate: 1–11 December 2025\nLocation: All 19 cache locations across the asset's operational territory\nClassification: Routine (administrative)\nOutcome: Successful\nPAMC casualties: none\nAdversary casualties: none\nNotes: Triennial audit of all 19 micro-caches (§8.4). 3 caches required content rotation; 1 (Salar de\nUyuni Sector boundary) was relocated 4.2 km due to restricted-zone expansion. No tampering\nevidence found. Audit completed under-budget and 2 days ahead of schedule.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.10",
+    "title": "Case 2026-0008: Helsinki Open — Bolivian Altiplano",
+    "level": 2,
+    "page_start": 43,
+    "page_end": 43,
+    "raw_text": "Case number: 2026-0008\nDate: 1 March 2026 – present\nLocation: Bolivian altiplano (specifics classified)\nClassification: Open\nOutcome: ongoing\nPAMC casualties: none to date\nAdversary: suspected Mar Inverso (§7.10) and Iron Tributary mixed engagement\nNotes: Active investigation. Director-General authorization in place. Asset reports weekly to\nDirector Salvatierra.",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "9.11",
+    "title": "Summary Statistics (2019–2025)",
+    "level": 2,
+    "page_start": 43,
+    "page_end": 43,
+    "raw_text": "Metric\nValue\nTotal cases logged\n47 (closed); 1 (open)\nSuccessful outcomes\n31 (66%)\nPartial outcomes\n6 (13%)\nInconclusive\n5 (11%)\nPyrrhic\n3 (6%)\nCatastrophic\n2 (4%)\nPAMC operative KIA\n1 (Cpl. Yáñez-Ríos, 2022)\nTotal adversary captures\n92\nTotal civilian casualties (cumulative)\n14 deaths, 34 injuries\nOperational hours under power (career)\n1,148\nCombat-zone deployments\n28\nNon-combat / advisory deployments\n19\nSLATEFALL_DOSSIER.md\n2026-05-18\n43 / 50",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.1",
+    "title": "Consolidated Glossary",
+    "level": 2,
+    "page_start": 44,
+    "page_end": 45,
+    "raw_text": "The following glossary consolidates terminology introduced in §§1–9. No new concepts are introduced.\nAnchor Sling — nylon-aramid harness used to redirect suspended objects in close quarters; 440\ng; 1,200 kg static load rating. (§4.7)\nAnchor Stone \"Cerro-1\" — polished slate fragment recovered from the 2018 trigger site; 32 g;\npersonal talisman. (§4.14)\nAndean Operations Bureau — PAMC bureau responsible for South American operations;\ncompiling authority of this dossier. (§6.1)\nAndina-7 — operative hardshell uniform, manufacturer Tejidos Cordillera, 3.8 kg. (§4.2)\nAudiencia, The — bureaucratic-adversary cluster within PAMC; estimated 7–12 members. (§7.11)\nBauer-Cortez, Solène — Cell Halcón technical specialist; Class C-1 (EM sensing); ETH Zürich\nengineer. (§6.3)\nBersa-Nogales TX-9 — issued sidearm, 9×19 mm, 13-round magazine. (§4.5)\nBofedal-3 — PAMC-issued electrolyte solution; 740 mL/hr operational dose. (§2.14)\nBorghi-Castelnuovo, Maite — PAMC behavioral health, the asset's psychologist. (§6.4)\nCabrestante — civilian Pablo Eyzaguirre-Pinto; cybernetically augmented adversary; Tier 3;\ncaptured 2025. (§7.7)\nCalexin-7 — migraine prophylactic, 240 mg twice daily standard. (§2.15, §4.9)\nCalvache–Marrón Equations — theoretical framework underlying Inertial Suspension, published 11\nMay 2022. (§2.1)\nCardex-2 — restricted stimulant analog, 6 doses in medical kit. (§4.9)\nCBMP — Cooperative Bureau of Metahuman Physics, PAMC science directorate. (§2.1)\nCEM — Centro de Entrenamiento de Montaña, Río Blanco, Chilean Army mountain warfare school.\n(§1.3)\nCell Cóndor — PAMC Mendoza-based cell; suffered casualty in 2022 Mendoza engagement. (§8.8,\n§9.4)\nCell Halcón — SLATEFALL's 4-operative tactical unit; finalized 11 October 2022. (§6.2)\nCerro Castillo — Aysén Region mountain, site of the 2018 trigger event; exclusion zone since\n2020. (§3.4, §8.6)\nConcession, The — corporate-paramilitary syndicate, 62 confirmed members. (§7.9)\nCordillera Mk-IV — issued combat-mountain boot, 980 g per boot. (§4.3)\nCooperative Service Agreement — PAMC employment contract signed 12 March 2019. (§3.6)\nCuartel Valparaíso — primary base, decommissioned naval depot, 4,820 m². (§8.1)\nDoctrine of Sequential Suspension (DSS) — formal combat doctrine, articulated 19 June 2022.\n(§5.1)\nDrift Read — secondary precognitive ability, 3-meter range, awakened May 2021. (§2.10)\nDrop-Tune — tactical manoeuvre exploiting the 0.3-second contact-exclusion clearance. (§5.5)\nEcho Lock — neurological failure mode, 4-second freeze; observed twice. (§2.13)\nEl Sereno — unidentified nocturnal adversary, Tier 3, at-large. (§7.4)\nEM-Suppression Cloak — 1.2 kg aluminized weave, 24–28 dB attenuation. (§4.14)\nEspósito-Tagle, María-Elena — PAMC Director-General. (§6.1)\nFaro-7 — issued headlamp, 720 lumens. (§4.10)\nFour-Minute Window — extraction-discipline standard; 4-minute time-to-extraction. (§5.10)\nHALC-014 — the asset's customized loadout profile. (§4.1)\nHelsinki Open — informal name for Case 2026-0008. (§9.10)\nSLATEFALL_DOSSIER.md\n2026-05-18\n44 / 50\nHold — tertiary low-mass extended-duration ability; 2 kg max, 4 s max duration. (§2.11)\nInertial Suspension (IS) — the asset's primary power. (§2.1)\nIron Tributary — paramilitary cell, 22 confirmed members. (§7.8)\nLMAF — Lima Metahuman Assessment Facility. (§3.5)\nMar Inverso — projected Tier 5 inertial-inversion threat. (§7.10)\nMarrón-Saavedra, Léon — CBMP physicist, co-author of the Calvache–Marrón Equations. (§6.4)\nMARTILLO — PAMC Class A-1 operative; documented professional friction with the asset. (§6.7)\nMendieta, Asunta — safehouse keeper, Cuzco. (§6.5)\nMIRADOR — senior PAMC operative, the asset's former trainer. (§3.6, §8.8)\nNMOC — Nordic Metahuman Operations Cell; source of the Threat Tier Schedule format. (§7.1)\nOEA-MAR — OAS Misión Andina de Rescate, the asset's pre-PAMC deployment framework. (§1.4)\nOperación Vilcabamba — 2014 OEA-MAR Peruvian deployment. (§1.4)\nOperación Trapecio — 2016 OEA-MAR Bolivian deployment. (§1.4)\nOperación Cancha Carrera — 2017 OEA-MAR Argentine deployment. (§1.4)\nOvalle-Garrido, Ezequiel — Chilean Army liaison officer, relationship since 2014. (§6.5)\nPAMC — Pan-American Metahuman Cooperative, parent organization. (§6.1)\nPAMC Protocol 4-Bravo — public-facing media restriction protocol. (§1.8)\nPAMC Standing Order 9 — civilian-collateral zero-tolerance directive. (§5.8)\nPAMC Restraint Facility, Iquique — current custody site of Tropopausa. (§7.3)\nPajarera — civilian intel asset Tessa Roehl, La Paz. (§6.5)\nQuebrantadero — civilian Wilma Sandoval-Iqui; bone-density manipulator; Tier 4; at-large. (§7.5)\nQuiltro V-12 — armored utility vehicle, 4.4 t. (§4.11)\nQuispe-Linares, Mateo — Cell Halcón tracker, ex-Bolivian SF. (§6.3)\nRenström-Verdugo, Catalina — the asset's spouse, pediatric oncologist. (§1.7)\nReset Bracers — neural-telemetry wrist units, 180 g each. (§4.6)\nSalvatierra-Bunge, Aída — PAMC Operations Director. (§6.4)\nSletten, Magnus — PAMC Inspector General, \"Underwriter.\" (§7.6)\nSLATEFALL — registered codename of the asset, assigned 7 May 2019. (§1.1)\nSuspended Field — tactical multi-baton kinetic-cover technique. (§5.6)\nTail Momentum — the property whereby suspended objects resume exact prior vector on release.\n(§2.6)\nTail-Strike — combat technique exploiting Tail Momentum. (§5.4)\nThree-Two-One Rule — tactical heuristic (3 activations / 2 sightlines / 1 extraction). (§5.2)\nTropopausa — civilian Eliseo Mardones-Vodanovic; pressure manipulator; Tier 4; contained. (§7.3)\nUnderwriter — bureaucratic adversary, Magnus Sletten. (§7.6)\nVendrame, Raúl — Cell Halcón medic. (§6.3)\nYatiri-3 — burst-radio handset, 460 g. (§4.8)\n0-3-Castillo — asset's radio call sign. (§1.1)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.2",
+    "title": "Codename Index",
+    "level": 2,
+    "page_start": 45,
+    "page_end": 46,
+    "raw_text": "Codename\nTrue identity\nAffiliation\nSLATEFALL\nInez Calvache-Renström\nPAMC (asset)\nMIRADOR\nEstefania Pizarroso-Aldama\nPAMC (allied)\nMARTILLO\nJoaquín Hidalgo-Yáñez\nPAMC (rival)\nSLATEFALL_DOSSIER.md\n2026-05-18\n45 / 50\nCodename\nTrue identity\nAffiliation\nPajarera\nTessa Roehl\nCivilian intel asset\nTropopausa\nEliseo Mardones-Vodanovic\nAdversary\nEl Sereno\nUnknown\nAdversary\nQuebrantadero\nWilma Sandoval-Iqui\nAdversary\nCabrestante\nPablo Eyzaguirre-Pinto\nAdversary (captured)\nUnderwriter\nMagnus Sletten\nAdversary (bureaucratic)\nCataract\nHelene Drovac\nAdversary (Concession contract)\nMar Inverso\nUnknown\nAdversary (projected)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.3",
+    "title": "Threat Tier Reference Table (Repeated for Convenience)",
+    "level": 2,
+    "page_start": 46,
+    "page_end": 46,
+    "raw_text": "Tier\nPower output ceiling\nCasualty potential\nAuthorization required\n1\n< 0.5 kJ\n≤ 1 civilian\nField operative, solo\n2\n0.5–25 kJ\n2–10 civilians\nField officer, solo or cell\n3\n25–500 kJ\n11–100 civilians\nLead officer, cell required\n4\n500 kJ – 50 MJ\n101–5,000 civilians\nLead officer + auxiliary\n5\n> 50 MJ or strategic\n> 5,000 civilians\nDirector-General authorization",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.4",
+    "title": "Power-Mechanics Reference Card",
+    "level": 2,
+    "page_start": 46,
+    "page_end": 47,
+    "raw_text": "Parameter\nValue\nTargeting time\n1.2 s\nMass ceiling\n240 kg\nUncontrolled peak\n380 kg (2018 only)\nBaseline duration\n0.6 s\nPharmacologically extended duration\n1.1 s (Calexin-7, 240 mg)\nEffective range\n22 m\nTheoretical range\n41 m\nPer-target cooldown\n11 s\nGlobal activation cooldown\n2.4 s\nActivations per minute (sustained)\n3\nEffective inertial reduction\n~99.6% (to 0.4% rest mass)\nSLATEFALL_DOSSIER.md\n2026-05-18\n46 / 50\nParameter\nValue\nDrift Read range\n3.0 m\nDrift Read lead-time\n~0.30 s\nHold mass max\n2 kg\nHold duration max\n4.0 s\nAcoustic-disruption threshold\n≥ 135 dB\nEcho Lock trigger threshold\n≥ 145 dB / > 240 kg / glucose < 58 mg/dL\nOperational metabolic cost\n2,100 kcal/hr",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.5",
+    "title": "Equipment Quick-Reference",
+    "level": 2,
+    "page_start": 47,
+    "page_end": 47,
+    "raw_text": "Item\nMass\nManufacturer\nAndina-7 hardshell\n3.8 kg\nTejidos Cordillera\nCordillera Mk-IV boot (single)\n980 g\nCalzados Pirque\nTungsten throwing baton (single)\n340 g\nTalleres Magallanes\nBersa-Nogales TX-9\n720 g loaded\nBersa-Nogales\nReset Bracer (single)\n180 g\nCBMP / Bauer-Cortez\nAnchor Sling\n440 g\nTejidos Cordillera\nYatiri-3 handset\n460 g\nPAMC Signals\nQuiltro V-12 vehicle\n4,400 kg\nIndustrias Ñuble\nEM-Suppression Cloak\n1.2 kg\nCBMP",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.6",
+    "title": "Timeline Master Table (2018–2026)",
+    "level": 2,
+    "page_start": 47,
+    "page_end": 48,
+    "raw_text": "Year\nKey events\n2018\nCerro Castillo trigger (8 Oct)\n2019\nPAMC service agreement (12 Mar); codename assigned (7 May)\n2020\nFirst Echo Lock event (19 Nov)\n2021\nDrift Read awakens, Antofagasta (17 May)\n2022\nCalvache–Marrón Equations published (11 May); Mendoza Pyrrhic (3 Jun); DSS articulated (19\nJun); promoted F.O. Grade 2 (1 Aug); Cell Halcón finalized (11 Oct)\n2023\nSecond Echo Lock, Salta (14 Aug); marriage (4 Nov)\n2024\nPromoted Lead Officer Grade 3 (9 Feb); Tarapacá raid (17 Feb)\nSLATEFALL_DOSSIER.md\n2026-05-18\n47 / 50\nYear\nKey events\n2025\nAudiencia counter-audit (Jan–Feb); Cabrestante neutralization (18 Sep); Mar Inverso intel (22\nDec)\n2026\nHelsinki Open ongoing (1 Mar–present); current revision date (11 Apr)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.7",
+    "title": "Adversary–Incident Cross-Reference Matrix",
+    "level": 2,
+    "page_start": 48,
+    "page_end": 48,
+    "raw_text": "Adversary\nCases involved\nTropopausa\n2022-0123, 2023 (Antofagasta), 2023 (Iquique), 2024 (Coquimbo)\nEl Sereno\n2023-0067, 2024 (Antofagasta), 2025 (Arica)\nQuebrantadero\n2024-0202, 2024 (Cuzco)\nCabrestante\n2025-0156\nUnderwriter\n2025-0019\nIron Tributary\n2024-0034, 2025-0156\nThe Concession\n2024-0034 (primary), 4 prior contact engagements\nMar Inverso\n2026-0008 (suspected)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.8",
+    "title": "Mark-Degradation and Power-Failure Reference",
+    "level": 2,
+    "page_start": 48,
+    "page_end": 48,
+    "raw_text": "Failure factor\nThreshold\nEffect\nAcoustic shock\n135 dB\nTargeting interruption\nAcoustic shock\n145 dB\nEcho Lock trigger\nHypothermia\ncore < 34.6 °C\nPower disabled\nHypoglycemia\nglucose < 58 mg/dL\nEcho Lock risk\nHyperventilation\n> 34 breaths/min, > 90 s\n18% targeting degradation\nEM-pulse\n> 0.4 T\nSecondary nerve dysfunction\nVisual occlusion\n> 40 min sustained\nTransient suppression\nAltitude\n> 5,800 m\n(Tropopausa-specific; not the asset's own limit)",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.9",
+    "title": "Acronym Key",
+    "level": 2,
+    "page_start": 48,
+    "page_end": 49,
+    "raw_text": "Acronym\nExpansion\nPAMC\nPan-American Metahuman Cooperative\nCBMP\nCooperative Bureau of Metahuman Physics\nCEM\nCentro de Entrenamiento de Montaña\nSLATEFALL_DOSSIER.md\n2026-05-18\n48 / 50\nAcronym\nExpansion\nESM\nEscuela Militar Bernardo O'Higgins\nLMAF\nLima Metahuman Assessment Facility\nNMOC\nNordic Metahuman Operations Cell (Threat Tier source)\nOEA-MAR\nOrganización de los Estados Americanos — Misión Andina de Rescate\nDSS\nDoctrine of Sequential Suspension\nIS\nInertial Suspension\nDAM\nDirección de Asuntos Metahumanos (Peruvian agency)\nSOE\nServicio de Operaciones Especiales (Bolivian agency)\nMTBF\nMean Time Between Failures\nIIIA / IV\nNIJ ballistic protection ratings",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.10",
+    "title": "Document Provenance and Revision History",
+    "level": 2,
+    "page_start": 49,
+    "page_end": 49,
+    "raw_text": "Revision\nDate\nEditor\nNotes\n1.0\n7 May 2019\nAndean Operations Bureau\nInitial filing post-codename assignment\n2.0\n14 Jan 2020\nM. Rosenblatt-Velarde\nPost-probation update\n3.0\n22 Aug 2020\nM. Rosenblatt-Velarde\nEcho Lock event added\n4.0\n30 Jun 2021\nA. Quintero-Salgado\nAntofagasta + Drift Read addition\n5.0\n19 Jun 2022\nA. Quintero-Salgado\nDSS articulation added\n6.0\n31 Aug 2022\nA. Quintero-Salgado\nPromotion and Cell Halcón\n7.0\n12 Mar 2023\nA. Quintero-Salgado\nCell composition finalized\n8.0\n24 Sep 2023\nM.-J. Casariego-Núñez\nSalta inquiry findings\n9.0\n15 Feb 2024\nM.-J. Casariego-Núñez\nLead-officer promotion\n10.0\n28 Apr 2024\nM.-J. Casariego-Núñez\nTarapacá declassification\n11.0\n30 Sep 2024\nA. Quintero-Salgado\nAnnual review cycle\n12.0\n28 Feb 2025\nA. Quintero-Salgado\nAudiencia outcome added\n13.0\n30 Sep 2025\nA. Quintero-Salgado\nCabrestante engagement\n14.0\n28 Dec 2025\nA. Quintero-Salgado\nMar Inverso intel added\n14.1\n28 Dec 2025\nA. Quintero-Salgado\nMinor corrections\n14.2\n11 Apr 2026\nA. Quintero-Salgado\nCurrent revision; Helsinki Open update",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  },
+  {
+    "section_id": "10.11",
+    "title": "Document Closure",
+    "level": 2,
+    "page_start": 49,
+    "page_end": 50,
+    "raw_text": "SLATEFALL_DOSSIER.md\n2026-05-18\n49 / 50\nThis dossier constitutes the official PAMC reference file for asset PAMC-A2-014 (SLATEFALL) as of 11\nApril 2026. All factual claims herein are derived from CBMP scientific records, PAMC Operations\nDirectorate after-action filings, and primary debrief sessions with the asset. Discrepancies between this\nrevision and prior revisions should be resolved in favor of the most recent revision unless explicitly noted.\nInquiries regarding the contents of this dossier should be directed to the Andean Operations Bureau,\nPAMC South Cone Headquarters, Cuartel Valparaíso.\n— End of Dossier —\nSLATEFALL_DOSSIER.md\n2026-05-18\n50 / 50",
+    "book_name": "SLATEFALL_DOSSIER.pdf"
+  }
+]
