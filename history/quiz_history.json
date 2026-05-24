@@ -1,0 +1,407 @@
+[
+  {
+    "timestamp": "2026-05-23 22:50:52.328064",
+    "section_id": "3.6",
+    "book_name": "SLATEFALL_DOSSIER.pdf",
+    "results": [
+      {
+        "question": "When did She sign the Cooperative Service Agreement?",
+        "correct": false
+      },
+      {
+        "question": "What was the codename assigned to the event?",
+        "correct": false
+      },
+      {
+        "question": "Where did the residential training take place?",
+        "correct": false
+      },
+      {
+        "question": "What was the cause of the first Echo Lock event?",
+        "correct": false
+      },
+      {
+        "question": "When was the training discipline tightened?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:51:18.614313",
+    "section_id": "4.12",
+    "book_name": "SLATEFALL_DOSSIER.pdf",
+    "results": [
+      {
+        "question": "What is the time interval for a dead-man's pulse beacon to send an operative-alive signal?",
+        "correct": false
+      },
+      {
+        "question": "What is the duration for which the absence of the signal from a dead-man's pulse beacon triggers a Cell Halcón recovery protocol?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of the biometric pistol lock?",
+        "correct": false
+      },
+      {
+        "question": "What is the duration of the lockout time for the biometric pistol lock?",
+        "correct": true
+      },
+      {
+        "question": "What is the purpose of concealed kill switches?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:51:41.908242",
+    "section_id": "4.12",
+    "book_name": "SLATEFALL_DOSSIER.pdf",
+    "results": [
+      {
+        "question": "What is the approximate duration for which a dead-man's pulse beacon must remain silent before triggering a Cell Halcón recovery protocol?",
+        "correct": false
+      },
+      {
+        "question": "Which of the following characteristics does NOT describe the biometric pistol lock's lockout time?",
+        "correct": false
+      },
+      {
+        "question": "What is the primary purpose of the concealed kill switches in the Reset Bracers, Yatiri-3 handset, and Quiltro V-12 ignition?",
+        "correct": false
+      },
+      {
+        "question": "How often does a dead-man's pulse beacon transmit an operative-alive signal?",
+        "correct": false
+      },
+      {
+        "question": "What is the primary biometric factor used by the biometric pistol lock to verify the asset's identity?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:52:20.139841",
+    "section_id": "2.2",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What provides the structure for handling multidimensional data?",
+        "correct": false
+      },
+      {
+        "question": "What is the goal of most machine learning problems?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of the gradient in machine learning?",
+        "correct": false
+      },
+      {
+        "question": "What happens when the learning rate is too large in the Gradient Descent algorithm?",
+        "correct": false
+      },
+      {
+        "question": "Why was Stochastic Gradient Descent (SGD) developed?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:52:29.616165",
+    "section_id": "2.2",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What is the primary goal of most machine learning problems?",
+        "correct": false
+      },
+      {
+        "question": "Why is the gradient used in machine learning?",
+        "correct": false
+      },
+      {
+        "question": "What happens when the learning rate is too large in the Gradient Descent algorithm?",
+        "correct": false
+      },
+      {
+        "question": "In deep learning, why was Stochastic Gradient Descent (SGD) developed?",
+        "correct": true
+      },
+      {
+        "question": "What is the name of the update rule for the Gradient Descent algorithm?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:52:44.148178",
+    "section_id": "6.2",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What is the primary driver of model degradation in machine learning systems?",
+        "correct": false
+      },
+      {
+        "question": "What is MLOps?",
+        "correct": false
+      },
+      {
+        "question": "What is Data Drift?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of automated monitoring systems in MLOps pipelines?",
+        "correct": true
+      },
+      {
+        "question": "What is the name of the statistical test used to track feature shifts in MLOps pipelines?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:53:08.960011",
+    "section_id": "6.1",
+    "book_name": "generative_ai_comprehensive_book.pdf",
+    "results": [
+      {
+        "question": "What is a limitation of machine learning models?",
+        "correct": false
+      },
+      {
+        "question": "What is the goal of demographic parity in data science?",
+        "correct": false
+      },
+      {
+        "question": "Where can bias be mitigated in algorithmic systems?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of Differential Privacy in data privacy?",
+        "correct": true
+      },
+      {
+        "question": "What is the primary concern in data science when integrating systems into critical social infrastructure?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:53:23.252065",
+    "section_id": "6.2",
+    "book_name": "generative_ai_comprehensive_book.pdf",
+    "results": [
+      {
+        "question": "Which of the following best describes the primary driver of model degradation in machine learning systems?",
+        "correct": true
+      },
+      {
+        "question": "What is the main purpose of automated monitoring systems in MLOps pipelines?",
+        "correct": false
+      },
+      {
+        "question": "Which of the following statistical tests is commonly used to track feature shifts in MLOps pipelines?",
+        "correct": false
+      },
+      {
+        "question": "What is the main difference between traditional software and machine learning models in terms of failure?",
+        "correct": true
+      },
+      {
+        "question": "What is the name of the cultural and technical framework that adapts software engineering DevOps methodologies to the unique requirements of machine learning systems?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:53:36.850815",
+    "section_id": "2.2",
+    "book_name": "generative_ai_comprehensive_book.pdf",
+    "results": [
+      {
+        "question": "What is the primary goal of most machine learning problems in terms of optimization?",
+        "correct": false
+      },
+      {
+        "question": "Why is the gradient used in machine learning?",
+        "correct": false
+      },
+      {
+        "question": "What is the name of the update rule for the Gradient Descent algorithm?",
+        "correct": true
+      },
+      {
+        "question": "Why was Stochastic Gradient Descent (SGD) developed?",
+        "correct": true
+      },
+      {
+        "question": "What happens when the learning rate is too large in the Gradient Descent algorithm?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:54:03.463704",
+    "section_id": "5.2",
+    "book_name": "data_science_textbook.pdf",
+    "results": [
+      {
+        "question": "Why do standard feedforward networks scale poorly when applied to high-dimensional structured data?",
+        "correct": true
+      },
+      {
+        "question": "What is the primary mechanism used by Convolutional Neural Networks (CNNs) to process spatial data?",
+        "correct": true
+      },
+      {
+        "question": "What is the main limitation of standard Recurrent Neural Networks (RNNs) for sequential data?",
+        "correct": false
+      },
+      {
+        "question": "What is the primary application of Long Short-Term Memory (LSTM) networks?",
+        "correct": false
+      },
+      {
+        "question": "What is the key mechanism used by Transformer models to process unbounded context sequences?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:54:15.046345",
+    "section_id": "6.1",
+    "book_name": "data_science_textbook.pdf",
+    "results": [
+      {
+        "question": "What is the primary concern in data science when integrating systems into critical social infrastructure?",
+        "correct": false
+      },
+      {
+        "question": "Which of the following is a method for mitigating algorithmic bias in machine learning models?",
+        "correct": false
+      },
+      {
+        "question": "What is the primary goal of Differential Privacy in data privacy?",
+        "correct": false
+      },
+      {
+        "question": "What is the term for ensuring the likelihood of a positive outcome is equal across all protected demographic groups?",
+        "correct": false
+      },
+      {
+        "question": "Which of the following regulations enforces strict legal guidelines regarding data privacy?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:54:24.972009",
+    "section_id": "6.1",
+    "book_name": "data_science_textbook.pdf",
+    "results": [
+      {
+        "question": "What is the primary goal of pre-processing in mitigating algorithmic bias?",
+        "correct": false
+      },
+      {
+        "question": "Which compliance framework requires organizations to implement anonymization protocols?",
+        "correct": true
+      },
+      {
+        "question": "What is the primary concern in data science when integrating systems into critical social infrastructure?",
+        "correct": false
+      },
+      {
+        "question": "Which of the following is NOT a method for mitigating algorithmic bias in machine learning models?",
+        "correct": false
+      },
+      {
+        "question": "What is the primary goal of Differential Privacy in data privacy?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:56:20.905936",
+    "section_id": "2.1",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What is the mathematical representation of a consumer in a dataset?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of matrix multiplication in data science?",
+        "correct": false
+      },
+      {
+        "question": "What is the foundation of dimensionality reduction techniques like Principal Component Analysis (PCA)?",
+        "correct": true
+      },
+      {
+        "question": "What is the purpose of Singular Value Decomposition (SVD) in data science?",
+        "correct": false
+      },
+      {
+        "question": "What is the algorithmic engine behind latent semantic analysis in natural language processing, collaborative filtering in recommendation systems, and image compression frameworks?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:56:32.029231",
+    "section_id": "4.4",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What is the primary goal of machine learning?",
+        "correct": true
+      },
+      {
+        "question": "What is feature engineering used for?",
+        "correct": true
+      },
+      {
+        "question": "What is cross-validation used for?",
+        "correct": true
+      },
+      {
+        "question": "What type of learning algorithm is trained using labeled datasets?",
+        "correct": true
+      },
+      {
+        "question": "What is deployment used for?",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-23 22:56:44.226201",
+    "section_id": "3.4",
+    "book_name": "machine_learning_book.pdf",
+    "results": [
+      {
+        "question": "What is the primary goal of machine learning?",
+        "correct": false
+      },
+      {
+        "question": "What is a key application of deep learning?",
+        "correct": false
+      },
+      {
+        "question": "What is the purpose of deployment in machine learning?",
+        "correct": false
+      },
+      {
+        "question": "What is model evaluation used for?",
+        "correct": false
+      },
+      {
+        "question": "What is the correct sequence of steps in machine learning?",
+        "correct": false
+      }
+    ]
+  }
+]
