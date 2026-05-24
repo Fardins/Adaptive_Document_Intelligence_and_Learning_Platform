@@ -75,9 +75,7 @@ into a unified educational intelligence platform.
 
 ### Try it live — no installation needed
 
-[![Open in Streamlit](https://adaptive-document-intelligence-and-learning-platform.streamlit.app/)
-
-**[adaptive-document-intelligence-and-learning-platform](https://adaptive-document-intelligence-and-learning-platform.streamlit.app/)**
+**[Adaptive-Document-Intelligence-and-Learning-Platform](https://adaptive-document-intelligence-and-learning-platform.streamlit.app/)**
 > See [Running the App](#running-the-application) → *Deploy to Streamlit Cloud* for step-by-step instructions.
 
 </div>
